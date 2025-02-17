@@ -1,0 +1,415 @@
+outlet_name,crisis_name,coverage_count
+ABC News,Afghanistan,864
+ABC News,Chad,30
+ABC News,Democratic Republic of the Congo,56
+ABC News,Ethiopia,80
+ABC News,Gaza and the Occupied Palestinian Territories,3106
+ABC News,Myanmar,254
+ABC News,Sudan,78
+ABC News,Syria,730
+ABC News,Ukraine,1746
+ABC News,Yemen,78
+AP News,Afghanistan,291
+AP News,Chad,1
+AP News,Democratic Republic of the Congo,118
+AP News,Ethiopia,37
+AP News,Gaza and the Occupied Palestinian Territories,938
+AP News,Myanmar,69
+AP News,Sudan,36
+AP News,Syria,349
+AP News,Ukraine,264
+AP News,Yemen,95
+Al Jazeera,Afghanistan,528
+Al Jazeera,Chad,30
+Al Jazeera,Democratic Republic of the Congo,216
+Al Jazeera,Ethiopia,327
+Al Jazeera,Gaza and the Occupied Palestinian Territories,1433
+Al Jazeera,Myanmar,315
+Al Jazeera,Sudan,374
+Al Jazeera,Syria,890
+Al Jazeera,Ukraine,1274
+Al Jazeera,Yemen,301
+BBC,Afghanistan,562
+BBC,Chad,26
+BBC,Democratic Republic of the Congo,75
+BBC,Ethiopia,332
+BBC,Gaza and the Occupied Palestinian Territories,847
+BBC,Myanmar,236
+BBC,Sudan,190
+BBC,Syria,801
+BBC,Ukraine,553
+BBC,Yemen,209
+Birmigham Live,Afghanistan,5
+Birmigham Live,Gaza and the Occupied Palestinian Territories,29
+Birmigham Live,Sudan,1
+Birmigham Live,Syria,4
+Birmigham Live,Ukraine,11
+Business Insider,Afghanistan,51
+Business Insider,Chad,3
+Business Insider,Democratic Republic of the Congo,18
+Business Insider,Ethiopia,9
+Business Insider,Gaza and the Occupied Palestinian Territories,170
+Business Insider,Myanmar,6
+Business Insider,Sudan,8
+Business Insider,Syria,64
+Business Insider,Ukraine,87
+Business Insider,Yemen,14
+Buzzfeed,Afghanistan,2
+Buzzfeed,Chad,4
+Buzzfeed,Ethiopia,2
+Buzzfeed,Gaza and the Occupied Palestinian Territories,86
+Buzzfeed,Myanmar,5
+Buzzfeed,Syria,15
+Buzzfeed,Ukraine,17
+Buzzfeed,Yemen,4
+CBC (Canadian Broadcasting Corporation),Afghanistan,148
+CBC (Canadian Broadcasting Corporation),Chad,22
+CBC (Canadian Broadcasting Corporation),Democratic Republic of the Congo,27
+CBC (Canadian Broadcasting Corporation),Ethiopia,22
+CBC (Canadian Broadcasting Corporation),Gaza and the Occupied Palestinian Territories,856
+CBC (Canadian Broadcasting Corporation),Myanmar,30
+CBC (Canadian Broadcasting Corporation),Sudan,17
+CBC (Canadian Broadcasting Corporation),Syria,427
+CBC (Canadian Broadcasting Corporation),Ukraine,276
+CBC (Canadian Broadcasting Corporation),Yemen,23
+CBS News,Afghanistan,145
+CBS News,Chad,1
+CBS News,Democratic Republic of the Congo,16
+CBS News,Ethiopia,20
+CBS News,Gaza and the Occupied Palestinian Territories,893
+CBS News,Myanmar,18
+CBS News,Sudan,87
+CBS News,Syria,107
+CBS News,Ukraine,689
+CBS News,Yemen,27
+CNBC,Afghanistan,32
+CNBC,Democratic Republic of the Congo,6
+CNBC,Ethiopia,3
+CNBC,Gaza and the Occupied Palestinian Territories,209
+CNBC,Myanmar,7
+CNBC,Sudan,5
+CNBC,Syria,16
+CNBC,Ukraine,430
+CNBC,Yemen,3
+CNN,Afghanistan,463
+CNN,Chad,9
+CNN,Democratic Republic of the Congo,29
+CNN,Ethiopia,51
+CNN,Gaza and the Occupied Palestinian Territories,1069
+CNN,Myanmar,126
+CNN,Sudan,108
+CNN,Syria,579
+CNN,Ukraine,1395
+CNN,Yemen,91
+CTV News,Afghanistan,81
+CTV News,Chad,2
+CTV News,Democratic Republic of the Congo,14
+CTV News,Ethiopia,7
+CTV News,Gaza and the Occupied Palestinian Territories,650
+CTV News,Myanmar,19
+CTV News,Sudan,6
+CTV News,Syria,222
+CTV News,Ukraine,325
+CTV News,Yemen,33
+Channel 4,Afghanistan,7
+Channel 4,Gaza and the Occupied Palestinian Territories,21
+Channel 4,Myanmar,2
+Channel 4,Syria,9
+Channel 4,Ukraine,5
+Channel 4,Yemen,1
+Daily Express,Afghanistan,88
+Daily Express,Democratic Republic of the Congo,17
+Daily Express,Ethiopia,3
+Daily Express,Gaza and the Occupied Palestinian Territories,279
+Daily Express,Myanmar,6
+Daily Express,Sudan,4
+Daily Express,Syria,98
+Daily Express,Ukraine,200
+Daily Express,Yemen,8
+Daily Record,Afghanistan,12
+Daily Record,Gaza and the Occupied Palestinian Territories,117
+Daily Record,Sudan,1
+Daily Record,Syria,16
+Daily Record,Ukraine,90
+Forbes,Afghanistan,44
+Forbes,Chad,1
+Forbes,Democratic Republic of the Congo,18
+Forbes,Ethiopia,9
+Forbes,Gaza and the Occupied Palestinian Territories,140
+Forbes,Myanmar,8
+Forbes,Sudan,8
+Forbes,Syria,24
+Forbes,Ukraine,303
+Forbes,Yemen,8
+Fox News,Afghanistan,412
+Fox News,Chad,23
+Fox News,Democratic Republic of the Congo,18
+Fox News,Ethiopia,4
+Fox News,Gaza and the Occupied Palestinian Territories,847
+Fox News,Myanmar,3
+Fox News,Sudan,43
+Fox News,Syria,126
+Fox News,Ukraine,777
+Fox News,Yemen,17
+GB News,Afghanistan,1
+GB News,Democratic Republic of the Congo,1
+GB News,Gaza and the Occupied Palestinian Territories,85
+GB News,Ukraine,15
+Healthline Media,Democratic Republic of the Congo,2
+IRNA (Islamic Iranian News Agency),Afghanistan,5
+IRNA (Islamic Iranian News Agency),Gaza and the Occupied Palestinian Territories,93
+IRNA (Islamic Iranian News Agency),Sudan,1
+IRNA (Islamic Iranian News Agency),Syria,3
+IRNA (Islamic Iranian News Agency),Ukraine,5
+ITV,Afghanistan,44
+ITV,Democratic Republic of the Congo,2
+ITV,Ethiopia,1
+ITV,Gaza and the Occupied Palestinian Territories,414
+ITV,Myanmar,1
+ITV,Sudan,38
+ITV,Syria,39
+ITV,Ukraine,132
+ITV,Yemen,2
+MSN,Afghanistan,366
+MSN,Chad,24
+MSN,Democratic Republic of the Congo,339
+MSN,Ethiopia,35
+MSN,Gaza and the Occupied Palestinian Territories,1917
+MSN,Myanmar,38
+MSN,Sudan,38
+MSN,Syria,656
+MSN,Ukraine,403
+MSN,Yemen,70
+Mail Online,Afghanistan,475
+Mail Online,Chad,33
+Mail Online,Democratic Republic of the Congo,35
+Mail Online,Ethiopia,46
+Mail Online,Gaza and the Occupied Palestinian Territories,915
+Mail Online,Myanmar,38
+Mail Online,Sudan,68
+Mail Online,Syria,696
+Mail Online,Ukraine,1011
+Mail Online,Yemen,127
+Manchester Evening News,Afghanistan,6
+Manchester Evening News,Democratic Republic of the Congo,3
+Manchester Evening News,Ethiopia,2
+Manchester Evening News,Gaza and the Occupied Palestinian Territories,56
+Manchester Evening News,Sudan,1
+Manchester Evening News,Syria,28
+Manchester Evening News,Ukraine,40
+Metro,Afghanistan,72
+Metro,Democratic Republic of the Congo,13
+Metro,Gaza and the Occupied Palestinian Territories,327
+Metro,Myanmar,6
+Metro,Sudan,5
+Metro,Syria,37
+Metro,Ukraine,729
+Metro,Yemen,6
+Mirror,Afghanistan,68
+Mirror,Chad,2
+Mirror,Democratic Republic of the Congo,28
+Mirror,Ethiopia,1
+Mirror,Gaza and the Occupied Palestinian Territories,313
+Mirror,Myanmar,4
+Mirror,Sudan,4
+Mirror,Syria,90
+Mirror,Ukraine,223
+Mirror,Yemen,9
+NBC News,Afghanistan,132
+NBC News,Democratic Republic of the Congo,11
+NBC News,Ethiopia,13
+NBC News,Gaza and the Occupied Palestinian Territories,1007
+NBC News,Myanmar,16
+NBC News,Sudan,26
+NBC News,Syria,172
+NBC News,Ukraine,615
+NBC News,Yemen,21
+NYT,Afghanistan,588
+NYT,Chad,24
+NYT,Democratic Republic of the Congo,63
+NYT,Ethiopia,126
+NYT,Gaza and the Occupied Palestinian Territories,1399
+NYT,Myanmar,152
+NYT,Sudan,163
+NYT,Syria,575
+NYT,Ukraine,1215
+NYT,Yemen,167
+New York Post,Afghanistan,285
+New York Post,Chad,10
+New York Post,Democratic Republic of the Congo,9
+New York Post,Ethiopia,5
+New York Post,Gaza and the Occupied Palestinian Territories,955
+New York Post,Myanmar,2
+New York Post,Sudan,5
+New York Post,Syria,38
+New York Post,Ukraine,569
+New York Post,Yemen,11
+News.com.au,Afghanistan,34
+News.com.au,Chad,1
+News.com.au,Democratic Republic of the Congo,11
+News.com.au,Gaza and the Occupied Palestinian Territories,345
+News.com.au,Myanmar,2
+News.com.au,Sudan,7
+News.com.au,Syria,37
+News.com.au,Ukraine,355
+News.com.au,Yemen,1
+Newsweek,Afghanistan,132
+Newsweek,Chad,3
+Newsweek,Democratic Republic of the Congo,28
+Newsweek,Ethiopia,5
+Newsweek,Gaza and the Occupied Palestinian Territories,787
+Newsweek,Myanmar,10
+Newsweek,Sudan,39
+Newsweek,Syria,354
+Newsweek,Ukraine,1745
+Newsweek,Yemen,20
+People,Afghanistan,51
+People,Chad,4
+People,Democratic Republic of the Congo,5
+People,Ethiopia,2
+People,Gaza and the Occupied Palestinian Territories,98
+People,Myanmar,3
+People,Sudan,1
+People,Syria,8
+People,Ukraine,170
+People,Yemen,2
+RT,Afghanistan,10
+RT,Democratic Republic of the Congo,3
+RT,Ethiopia,1
+RT,Gaza and the Occupied Palestinian Territories,142
+RT,Myanmar,5
+RT,Sudan,3
+RT,Syria,132
+RT,Ukraine,94
+RT,Yemen,8
+Radio Times,Afghanistan,1
+Radio Times,Gaza and the Occupied Palestinian Territories,6
+Radio Times,Syria,4
+Radio Times,Ukraine,2
+Reuters,Afghanistan,602
+Reuters,Chad,8
+Reuters,Democratic Republic of the Congo,162
+Reuters,Ethiopia,175
+Reuters,Gaza and the Occupied Palestinian Territories,1485
+Reuters,Myanmar,190
+Reuters,Sudan,142
+Reuters,Syria,471
+Reuters,Ukraine,1266
+Reuters,Yemen,131
+Sky News,Afghanistan,246
+Sky News,Chad,3
+Sky News,Democratic Republic of the Congo,3
+Sky News,Ethiopia,13
+Sky News,Gaza and the Occupied Palestinian Territories,1078
+Sky News,Myanmar,29
+Sky News,Sudan,51
+Sky News,Syria,87
+Sky News,Ukraine,989
+Sky News,Yemen,23
+Sydney Morning Herald ,Afghanistan,30
+Sydney Morning Herald ,Democratic Republic of the Congo,2
+Sydney Morning Herald ,Gaza and the Occupied Palestinian Territories,112
+Sydney Morning Herald ,Myanmar,14
+Sydney Morning Herald ,Syria,14
+Sydney Morning Herald ,Ukraine,27
+Sydney Morning Herald ,Yemen,2
+The Evening Standard,Afghanistan,106
+The Evening Standard,Chad,1
+The Evening Standard,Democratic Republic of the Congo,9
+The Evening Standard,Ethiopia,2
+The Evening Standard,Gaza and the Occupied Palestinian Territories,432
+The Evening Standard,Myanmar,6
+The Evening Standard,Sudan,9
+The Evening Standard,Syria,63
+The Evening Standard,Ukraine,223
+The Evening Standard,Yemen,3
+The Globe and Mail,Afghanistan,50
+The Globe and Mail,Chad,6
+The Globe and Mail,Democratic Republic of the Congo,25
+The Globe and Mail,Ethiopia,10
+The Globe and Mail,Gaza and the Occupied Palestinian Territories,411
+The Globe and Mail,Myanmar,16
+The Globe and Mail,Sudan,5
+The Globe and Mail,Syria,73
+The Globe and Mail,Ukraine,80
+The Globe and Mail,Yemen,21
+The Guardian,Afghanistan,324
+The Guardian,Chad,61
+The Guardian,Democratic Republic of the Congo,93
+The Guardian,Ethiopia,109
+The Guardian,Gaza and the Occupied Palestinian Territories,1579
+The Guardian,Myanmar,206
+The Guardian,Sudan,59
+The Guardian,Syria,962
+The Guardian,Ukraine,505
+The Guardian,Yemen,196
+The Independent,Afghanistan,363
+The Independent,Chad,6
+The Independent,Democratic Republic of the Congo,17
+The Independent,Ethiopia,25
+The Independent,Gaza and the Occupied Palestinian Territories,879
+The Independent,Myanmar,47
+The Independent,Sudan,66
+The Independent,Syria,299
+The Independent,Ukraine,782
+The Independent,Yemen,80
+The Sun,Afghanistan,111
+The Sun,Chad,4
+The Sun,Democratic Republic of the Congo,25
+The Sun,Ethiopia,9
+The Sun,Gaza and the Occupied Palestinian Territories,519
+The Sun,Myanmar,1
+The Sun,Sudan,11
+The Sun,Syria,114
+The Sun,Ukraine,595
+The Sun,Yemen,19
+The Telegraph,Afghanistan,79
+The Telegraph,Chad,7
+The Telegraph,Democratic Republic of the Congo,16
+The Telegraph,Ethiopia,10
+The Telegraph,Gaza and the Occupied Palestinian Territories,674
+The Telegraph,Myanmar,23
+The Telegraph,Sudan,25
+The Telegraph,Syria,211
+The Telegraph,Ukraine,849
+The Telegraph,Yemen,15
+USA Today,Afghanistan,123
+USA Today,Chad,6
+USA Today,Democratic Republic of the Congo,10
+USA Today,Ethiopia,5
+USA Today,Gaza and the Occupied Palestinian Territories,418
+USA Today,Myanmar,5
+USA Today,Sudan,7
+USA Today,Syria,81
+USA Today,Ukraine,273
+USA Today,Yemen,12
+Wall Street Journal,Afghanistan,162
+Wall Street Journal,Chad,3
+Wall Street Journal,Democratic Republic of the Congo,11
+Wall Street Journal,Ethiopia,7
+Wall Street Journal,Gaza and the Occupied Palestinian Territories,852
+Wall Street Journal,Myanmar,31
+Wall Street Journal,Sudan,8
+Wall Street Journal,Syria,299
+Wall Street Journal,Ukraine,234
+Wall Street Journal,Yemen,47
+Washington Post,Afghanistan,431
+Washington Post,Chad,4
+Washington Post,Democratic Republic of the Congo,32
+Washington Post,Ethiopia,35
+Washington Post,Gaza and the Occupied Palestinian Territories,960
+Washington Post,Myanmar,25
+Washington Post,Sudan,36
+Washington Post,Syria,644
+Washington Post,Ukraine,755
+Washington Post,Yemen,89
+yahoo,Afghanistan,153
+yahoo,Chad,6
+yahoo,Democratic Republic of the Congo,29
+yahoo,Ethiopia,10
+yahoo,Gaza and the Occupied Palestinian Territories,723
+yahoo,Myanmar,12
+yahoo,Sudan,5
+yahoo,Syria,251
+yahoo,Ukraine,140
+yahoo,Yemen,20
