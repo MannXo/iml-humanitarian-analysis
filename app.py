@@ -7,11 +7,11 @@ from plots import (plot_coverage, plot_crisis_coverage_vs_urgency,
                    plot_monthly_crisis_coverage, plot_spider_chart)
 
 # Load data (assuming CSVs are in the same directory)
-chart1_df = pd.read_csv(r'results\\chart1_overall_coverage_bar.csv')
-chart2_df = pd.read_csv(r'results\\chart2_coverage_by_country.csv')
-chart3_df = pd.read_csv(r'results\\chart3_monthly_coverage.csv')
-chart4_df = pd.read_csv(r'results\\chart4_spider_chart.csv')
-chart5_df = pd.read_csv(r'results\\chart5_attention_vs_urgency.csv')
+chart1_df = pd.read_csv('results/chart1_overall_coverage_bar.csv')
+chart2_df = pd.read_csv('results/chart2_coverage_by_country.csv')
+chart3_df = pd.read_csv('results/chart3_monthly_coverage.csv')
+chart4_df = pd.read_csv('results/chart4_spider_chart.csv')
+chart5_df = pd.read_csv('results/chart5_attention_vs_urgency.csv')
 
 # Initialize Streamlit app with a title
 st.title("Impact Media Lab - Top 10 Humanitarian Crises")
