@@ -94,31 +94,30 @@ def plot_monthly_crisis_coverage(monthly_coverage_df):
     return fig
 
 def plot_spider_chart(coverage_df, outlet_name):
-    # Filter the data for the selected outlet
     outlet_data = coverage_df[coverage_df['outlet_name'] == outlet_name]
     
     # Sort the data to ensure we have a consistent order (e.g., based on crisis_name)
     outlet_data = outlet_data.sort_values('crisis_name')
 
-    # Prepare the data for the Spider Chart
+    # Prepare the data for the Bar Chart
     categories = outlet_data['crisis_name'].tolist()  # List of crises
     values = outlet_data['coverage_count'].tolist()  # Corresponding coverage counts
     
-    # Create a Radar (Spider) chart
-    fig = go.Figure(data=[go.Scatterpolar(
-        r=values,
-        theta=categories,
-        fill='toself',
-        name=outlet_name
+    # Create a Bar Chart
+    fig = go.Figure(data=[go.Bar(
+        x=categories,
+        y=values,
+        text=values,
+        textposition='auto',
+        marker=dict(color='royalblue')
     )])
 
-    # Update the layout for a better visual
+    # Update the layout for better visualization
     fig.update_layout(
         title=f"Crisis Coverage by {outlet_name}",
-        polar=dict(
-            radialaxis=dict(visible=True, range=[0, max(values) + 10])  # Adjust range for better visualization
-        ),
-        showlegend=False,
+        xaxis_title="Crisis Name",
+        yaxis_title="Coverage Count",
+        xaxis=dict(tickangle=-45),
         template="plotly_dark"
     )
 

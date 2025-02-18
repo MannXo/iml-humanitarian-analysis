@@ -48,6 +48,6 @@ fig4 = plot_spider_chart(chart4_df[chart4_df['outlet_name'] == outlet_name], out
 st.plotly_chart(fig4)
 
 # Chart 5: Crisis Attention vs Urgency
-st.subheader("Crisis Attention vs Urgency")
-fig5 = plot_crisis_coverage_vs_urgency(chart5_df)
-st.plotly_chart(fig5)
+# st.subheader("Crisis Attention vs Urgency")
+# fig5 = plot_crisis_coverage_vs_urgency(chart5_df)
+# st.plotly_chart(fig5)
