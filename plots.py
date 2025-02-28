@@ -94,7 +94,7 @@ def plot_monthly_crisis_coverage(monthly_coverage_df):
     return fig
 
 def plot_spider_chart(coverage_df, outlet_name):
-    outlet_data = coverage_df[coverage_df['outlet_name'] == outlet_name]
+    outlet_data = coverage_df[coverage_df['matched_outlet'] == outlet_name]
     
     # Sort the data to ensure we have a consistent order (e.g., based on crisis_name)
     outlet_data = outlet_data.sort_values('crisis_name')

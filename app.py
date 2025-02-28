@@ -43,9 +43,50 @@ st.plotly_chart(fig3)
 
 # Chart 4: Spider Chart (Outlet Selection)
 st.subheader("Media Outlet Focus Across Crises")
-outlet_name = st.selectbox('Select an outlet:', chart4_df['outlet_name'].unique())
-fig4 = plot_spider_chart(chart4_df[chart4_df['outlet_name'] == outlet_name], outlet_name)
+outlet_name = st.selectbox('Select an outlet:', chart4_df['matched_outlet'].unique())
+fig4 = plot_spider_chart(chart4_df[chart4_df['matched_outlet'] == outlet_name], outlet_name)
 st.plotly_chart(fig4)
+
+import json
+with open("results/dashboard_results.json", "r") as f:
+    dashboard_data = json.load(f)
+
+
+st.subheader("🟦 Answers to questions regarding how outlets covered the crises 🟦")
+st.write("Note that the results are normalized to coverage per day")
+
+# 1️⃣ Outlets that covered Ukraine more than Gaza
+st.subheader("Outlets that Covered Ukraine More Than Gaza")
+st.write("These outlets gave more coverage to Ukraine compared to Gaza.")
+if dashboard_data["outlets_more_ukraine"]:
+    st.write(", ".join(dashboard_data["outlets_more_ukraine"]))
+else:
+    st.write("No outlets met this criterion.")
+
+# 2️⃣ Outlets that covered Ukraine & Gaza similarly
+st.subheader("⚖️ Outlets that Covered Ukraine & Gaza Proportionally")
+if dashboard_data["outlets_similar_ukraine_gaza"]:
+    st.write(", ".join(dashboard_data["outlets_similar_ukraine_gaza"]))
+else:
+    st.write("No outlets met this criterion.")
+
+# 3️⃣ Outlets that covered another crisis more than Ukraine & Gaza
+st.subheader("Outlets that Prioritized Other Crises Over Ukraine & Gaza")
+st.write("The only crisis that was covered more than Gaza by some outlets was Ukraine. The following are the outlets covered a crisis more than Ukraine (excluding Gaza) ")
+if dashboard_data["outlets_other_crisis"]:
+    for outlet, crises in dashboard_data["outlets_other_crisis"].items():
+        st.write(f"**{outlet}**: {', '.join(crises)}")
+else:
+    st.write("No outlets met this criterion.")
+
+# 4️⃣ Most balanced outlets
+st.subheader("📊 Most Balanced Outlets Across All Crises")
+st.write("Outlets That Covered the Other 8 Crises the Most")
+if dashboard_data["most_balanced_outlets"]:
+    st.write(", ".join(dashboard_data["most_balanced_outlets"]))
+else:
+    st.write("No outlets met this criterion.")
+
 
 # Chart 5: Crisis Attention vs Urgency
 # st.subheader("Crisis Attention vs Urgency")

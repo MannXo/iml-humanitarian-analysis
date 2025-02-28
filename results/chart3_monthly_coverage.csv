@@ -1,24 +1,24 @@
 crisis_name,year_month,coverage_count
-Afghanistan,2021-08,3325
-Afghanistan,2021-09,999
-Afghanistan,2021-10,308
-Afghanistan,2021-11,216
-Afghanistan,2021-12,157
-Afghanistan,2022-01,102
+Afghanistan,2021-08,3306
+Afghanistan,2021-09,981
+Afghanistan,2021-10,305
+Afghanistan,2021-11,212
+Afghanistan,2021-12,156
+Afghanistan,2022-01,100
 Afghanistan,2022-02,79
-Afghanistan,2022-03,60
-Afghanistan,2022-04,51
+Afghanistan,2022-03,59
+Afghanistan,2022-04,50
 Afghanistan,2022-05,46
 Afghanistan,2022-06,47
 Afghanistan,2022-07,31
 Afghanistan,2022-08,271
-Afghanistan,2022-09,67
+Afghanistan,2022-09,66
 Afghanistan,2022-10,38
 Afghanistan,2022-11,48
 Afghanistan,2022-12,63
 Afghanistan,2023-01,84
 Afghanistan,2023-02,60
-Afghanistan,2023-03,90
+Afghanistan,2023-03,89
 Afghanistan,2023-04,85
 Afghanistan,2023-05,49
 Afghanistan,2023-06,55
@@ -120,7 +120,7 @@ Chad,2018-07,2
 Chad,2018-08,3
 Chad,2018-09,6
 Chad,2018-10,1
-Chad,2018-12,4
+Chad,2018-12,3
 Chad,2019-01,1
 Chad,2019-02,2
 Chad,2019-03,1
@@ -169,11 +169,10 @@ Chad,2023-07,5
 Chad,2023-08,4
 Chad,2023-09,2
 Chad,2023-11,2
-Chad,2023-12,2
+Chad,2023-12,1
 Chad,2024-01,1
 Chad,2024-02,3
 Chad,2024-03,6
-Chad,2024-04,1
 Chad,2024-05,3
 Chad,2024-06,1
 Chad,2024-07,6
@@ -183,19 +182,19 @@ Chad,2024-10,4
 Chad,2024-11,9
 Chad,2024-12,1
 Chad,2025-01,11
-Chad,2025-02,13
+Chad,2025-02,12
 Democratic Republic of the Congo,2022-03,50
 Democratic Republic of the Congo,2022-04,37
 Democratic Republic of the Congo,2022-05,49
 Democratic Republic of the Congo,2022-06,63
-Democratic Republic of the Congo,2022-07,50
+Democratic Republic of the Congo,2022-07,49
 Democratic Republic of the Congo,2022-08,38
 Democratic Republic of the Congo,2022-09,28
-Democratic Republic of the Congo,2022-10,47
+Democratic Republic of the Congo,2022-10,46
 Democratic Republic of the Congo,2022-11,42
 Democratic Republic of the Congo,2022-12,54
 Democratic Republic of the Congo,2023-01,38
-Democratic Republic of the Congo,2023-02,26
+Democratic Republic of the Congo,2023-02,25
 Democratic Republic of the Congo,2023-03,20
 Democratic Republic of the Congo,2023-04,13
 Democratic Republic of the Congo,2023-05,14
@@ -204,7 +203,7 @@ Democratic Republic of the Congo,2023-07,6
 Democratic Republic of the Congo,2023-08,13
 Democratic Republic of the Congo,2023-09,13
 Democratic Republic of the Congo,2023-10,22
-Democratic Republic of the Congo,2023-11,16
+Democratic Republic of the Congo,2023-11,15
 Democratic Republic of the Congo,2023-12,26
 Democratic Republic of the Congo,2024-01,16
 Democratic Republic of the Congo,2024-02,37
@@ -213,14 +212,14 @@ Democratic Republic of the Congo,2024-04,30
 Democratic Republic of the Congo,2024-05,36
 Democratic Republic of the Congo,2024-06,24
 Democratic Republic of the Congo,2024-07,24
-Democratic Republic of the Congo,2024-08,121
+Democratic Republic of the Congo,2024-08,120
 Democratic Republic of the Congo,2024-09,49
 Democratic Republic of the Congo,2024-10,37
 Democratic Republic of the Congo,2024-11,26
 Democratic Republic of the Congo,2024-12,20
-Democratic Republic of the Congo,2025-01,74
-Democratic Republic of the Congo,2025-02,396
-Ethiopia,2020-11,250
+Democratic Republic of the Congo,2025-01,73
+Democratic Republic of the Congo,2025-02,395
+Ethiopia,2020-11,249
 Ethiopia,2020-12,105
 Ethiopia,2021-01,38
 Ethiopia,2021-02,37
@@ -265,34 +264,34 @@ Ethiopia,2024-04,18
 Ethiopia,2024-05,11
 Ethiopia,2024-06,5
 Ethiopia,2024-07,15
-Ethiopia,2024-08,22
+Ethiopia,2024-08,21
 Ethiopia,2024-09,13
 Ethiopia,2024-10,16
 Ethiopia,2024-11,13
 Ethiopia,2024-12,7
 Ethiopia,2025-01,31
 Ethiopia,2025-02,36
-Gaza and the Occupied Palestinian Territories,2023-10,7335
-Gaza and the Occupied Palestinian Territories,2023-11,3699
-Gaza and the Occupied Palestinian Territories,2023-12,2306
-Gaza and the Occupied Palestinian Territories,2024-01,1052
-Gaza and the Occupied Palestinian Territories,2024-02,686
-Gaza and the Occupied Palestinian Territories,2024-03,643
-Gaza and the Occupied Palestinian Territories,2024-04,776
-Gaza and the Occupied Palestinian Territories,2024-05,711
-Gaza and the Occupied Palestinian Territories,2024-06,425
-Gaza and the Occupied Palestinian Territories,2024-07,410
+Gaza and the Occupied Palestinian Territories,2023-10,7299
+Gaza and the Occupied Palestinian Territories,2023-11,3692
+Gaza and the Occupied Palestinian Territories,2023-12,2292
+Gaza and the Occupied Palestinian Territories,2024-01,1049
+Gaza and the Occupied Palestinian Territories,2024-02,682
+Gaza and the Occupied Palestinian Territories,2024-03,638
+Gaza and the Occupied Palestinian Territories,2024-04,773
+Gaza and the Occupied Palestinian Territories,2024-05,710
+Gaza and the Occupied Palestinian Territories,2024-06,424
+Gaza and the Occupied Palestinian Territories,2024-07,408
 Gaza and the Occupied Palestinian Territories,2024-08,593
-Gaza and the Occupied Palestinian Territories,2024-09,633
-Gaza and the Occupied Palestinian Territories,2024-10,2153
-Gaza and the Occupied Palestinian Territories,2024-11,964
-Gaza and the Occupied Palestinian Territories,2024-12,379
-Gaza and the Occupied Palestinian Territories,2025-01,2964
-Gaza and the Occupied Palestinian Territories,2025-02,3389
+Gaza and the Occupied Palestinian Territories,2024-09,628
+Gaza and the Occupied Palestinian Territories,2024-10,2150
+Gaza and the Occupied Palestinian Territories,2024-11,961
+Gaza and the Occupied Palestinian Territories,2024-12,377
+Gaza and the Occupied Palestinian Territories,2025-01,2957
+Gaza and the Occupied Palestinian Territories,2025-02,3387
 Myanmar,2017-08,41
 Myanmar,2017-09,190
 Myanmar,2017-10,80
-Myanmar,2017-11,76
+Myanmar,2017-11,75
 Myanmar,2017-12,59
 Myanmar,2018-01,17
 Myanmar,2018-02,25
@@ -305,13 +304,13 @@ Myanmar,2018-08,48
 Myanmar,2018-09,23
 Myanmar,2018-10,13
 Myanmar,2018-11,19
-Myanmar,2018-12,16
+Myanmar,2018-12,15
 Myanmar,2019-01,10
 Myanmar,2019-02,7
 Myanmar,2019-03,11
 Myanmar,2019-04,1
 Myanmar,2019-05,16
-Myanmar,2019-06,13
+Myanmar,2019-06,12
 Myanmar,2019-07,11
 Myanmar,2019-08,33
 Myanmar,2019-09,12
@@ -397,7 +396,7 @@ Sudan,2024-05,41
 Sudan,2024-06,59
 Sudan,2024-07,34
 Sudan,2024-08,46
-Sudan,2024-09,41
+Sudan,2024-09,40
 Sudan,2024-10,44
 Sudan,2024-11,44
 Sudan,2024-12,30
@@ -450,7 +449,7 @@ Syria,2014-10,54
 Syria,2014-11,37
 Syria,2014-12,44
 Syria,2015-01,51
-Syria,2015-02,84
+Syria,2015-02,83
 Syria,2015-03,130
 Syria,2015-04,59
 Syria,2015-05,63
@@ -463,12 +462,12 @@ Syria,2015-11,105
 Syria,2015-12,127
 Syria,2016-01,74
 Syria,2016-02,96
-Syria,2016-03,105
+Syria,2016-03,104
 Syria,2016-04,58
 Syria,2016-05,69
 Syria,2016-06,63
 Syria,2016-07,63
-Syria,2016-08,94
+Syria,2016-08,93
 Syria,2016-09,71
 Syria,2016-10,73
 Syria,2016-11,57
@@ -491,7 +490,7 @@ Syria,2018-03,66
 Syria,2018-04,82
 Syria,2018-05,40
 Syria,2018-06,35
-Syria,2018-07,51
+Syria,2018-07,50
 Syria,2018-08,34
 Syria,2018-09,36
 Syria,2018-10,37
@@ -507,12 +506,12 @@ Syria,2019-07,21
 Syria,2019-08,23
 Syria,2019-09,22
 Syria,2019-10,133
-Syria,2019-11,25
+Syria,2019-11,24
 Syria,2019-12,27
 Syria,2020-01,46
 Syria,2020-02,43
-Syria,2020-03,29
-Syria,2020-04,15
+Syria,2020-03,28
+Syria,2020-04,14
 Syria,2020-05,13
 Syria,2020-06,32
 Syria,2020-07,9
@@ -547,7 +546,7 @@ Syria,2022-11,21
 Syria,2022-12,8
 Syria,2023-01,22
 Syria,2023-02,196
-Syria,2023-03,76
+Syria,2023-03,75
 Syria,2023-04,38
 Syria,2023-05,83
 Syria,2023-06,27
@@ -571,40 +570,40 @@ Syria,2024-11,76
 Syria,2024-12,852
 Syria,2025-01,600
 Syria,2025-02,534
-Ukraine,2022-02,3591
-Ukraine,2022-03,3406
-Ukraine,2022-04,1339
-Ukraine,2022-05,808
-Ukraine,2022-06,645
-Ukraine,2022-07,471
-Ukraine,2022-08,451
-Ukraine,2022-09,603
-Ukraine,2022-10,566
-Ukraine,2022-11,488
-Ukraine,2022-12,440
-Ukraine,2023-01,261
-Ukraine,2023-02,827
-Ukraine,2023-03,295
+Ukraine,2022-02,3576
+Ukraine,2022-03,3346
+Ukraine,2022-04,1318
+Ukraine,2022-05,799
+Ukraine,2022-06,635
+Ukraine,2022-07,467
+Ukraine,2022-08,443
+Ukraine,2022-09,599
+Ukraine,2022-10,562
+Ukraine,2022-11,485
+Ukraine,2022-12,437
+Ukraine,2023-01,259
+Ukraine,2023-02,819
+Ukraine,2023-03,292
 Ukraine,2023-04,190
 Ukraine,2023-05,191
-Ukraine,2023-06,198
-Ukraine,2023-07,176
-Ukraine,2023-08,165
-Ukraine,2023-09,177
+Ukraine,2023-06,196
+Ukraine,2023-07,173
+Ukraine,2023-08,164
+Ukraine,2023-09,175
 Ukraine,2023-10,178
 Ukraine,2023-11,184
-Ukraine,2023-12,214
+Ukraine,2023-12,213
 Ukraine,2024-01,275
 Ukraine,2024-02,946
-Ukraine,2024-03,240
-Ukraine,2024-04,277
+Ukraine,2024-03,239
+Ukraine,2024-04,276
 Ukraine,2024-05,291
-Ukraine,2024-06,225
+Ukraine,2024-06,224
 Ukraine,2024-07,207
-Ukraine,2024-08,343
+Ukraine,2024-08,341
 Ukraine,2024-09,341
-Ukraine,2024-10,306
-Ukraine,2024-11,424
+Ukraine,2024-10,305
+Ukraine,2024-11,423
 Ukraine,2024-12,185
 Ukraine,2025-01,654
 Ukraine,2025-02,1032
@@ -698,7 +697,7 @@ Yemen,2021-11,19
 Yemen,2021-12,10
 Yemen,2022-01,9
 Yemen,2022-02,7
-Yemen,2022-03,22
+Yemen,2022-03,20
 Yemen,2022-04,11
 Yemen,2022-05,2
 Yemen,2022-06,5
