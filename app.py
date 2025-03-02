@@ -2,7 +2,7 @@ import pandas as pd
 
 import streamlit as st
 
-from plots import (plot_coverage, plot_crisis_coverage_vs_urgency,
+from plots import (plot_coverage, plot_coverage_by_disposition, plot_crisis_coverage_vs_urgency,
                    plot_interactive_grouped_coverage_by_country,
                    plot_monthly_crisis_coverage, plot_spider_chart)
 
@@ -12,6 +12,10 @@ chart2_df = pd.read_csv('results/chart2_coverage_by_country.csv')
 chart3_df = pd.read_csv('results/chart3_monthly_coverage.csv')
 chart4_df = pd.read_csv('results/chart4_spider_chart.csv')
 chart5_df = pd.read_csv('results/chart5_attention_vs_urgency.csv')
+chart6_df = pd.read_csv('results/chart6_coverage_by_disposition.csv')
+outlets_df = pd.read_csv('results/outlets.csv')
+
+
 
 # Initialize Streamlit app with a title
 st.title("Impact Media Lab - Top 10 Humanitarian Crises")
@@ -41,7 +45,7 @@ st.subheader("Monthly Crisis Coverage")
 fig3 = plot_monthly_crisis_coverage(chart3_df)
 st.plotly_chart(fig3)
 
-# Chart 4: Spider Chart (Outlet Selection)
+# Chart 4: bar Chart (Outlet Selection)
 st.subheader("Media Outlet Focus Across Crises")
 outlet_name = st.selectbox('Select an outlet:', chart4_df['matched_outlet'].unique())
 fig4 = plot_spider_chart(chart4_df[chart4_df['matched_outlet'] == outlet_name], outlet_name)
@@ -92,3 +96,10 @@ else:
 # st.subheader("Crisis Attention vs Urgency")
 # fig5 = plot_crisis_coverage_vs_urgency(chart5_df)
 # st.plotly_chart(fig5)
+
+
+# Chart 5: Coverage by outlets political dispositions
+st.subheader("Overall Coverage")
+disposition = st.selectbox('Select a disposition:', outlets_df['disposition'].unique())
+fig1 = plot_coverage_by_disposition(chart6_df,outlets_df, disposition, normalization=normalization)
+st.plotly_chart(fig1)

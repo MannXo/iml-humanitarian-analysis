@@ -157,3 +157,64 @@ def plot_crisis_coverage_vs_urgency(df):
     )
 
     return fig
+
+def plot_coverage_by_disposition(df, outlets_df, disposition, normalization="per_day"):
+    """
+    Plots coverage per crisis filtered by media disposition.
+    
+    Args:
+        df (pd.DataFrame): The dataframe containing crisis coverage data.
+        disposition (str): The selected media disposition (e.g., 'left', 'right', 'centrist').
+        normalization (str): The normalization method. Options:
+            - "raw" (raw coverage count)
+            - "per_day" (coverage per crisis day)
+            - "per_funding" (coverage per required funding)
+            - "per_people" (coverage per affected people)
+    """
+    
+    # Define normalization mapping
+    normalization_map = {
+        "raw": "coverage_count",
+        "per_day": "coverage_per_day",
+        "per_funding": "coverage_per_funding",
+        "per_people": "coverage_per_people",
+    }
+    
+    # Validate normalization input
+    if normalization not in normalization_map:
+        raise ValueError(f"Invalid normalization type! Choose from {list(normalization_map.keys())}")
+    
+    # Select the correct column
+    column = normalization_map[normalization]
+    
+    # Filter dataframe by disposition
+    filtered_df = df[df["matched_outlet"].isin(outlets_df[outlets_df["disposition"] == disposition]["outlet_name"])]
+    
+    if filtered_df.empty:
+        print(f"No data available for disposition: {disposition}")
+        return
+    
+    # Sort by coverage for better visualization
+    sorted_df = filtered_df.groupby("crisis_name")[column].sum().reset_index()
+    sorted_df = sorted_df.sort_values(by=column, ascending=False)
+    
+    # Plot using Plotly
+    fig = px.bar(
+        sorted_df, 
+        x="crisis_name", 
+        y=column, 
+        color="crisis_name", 
+        title=f"Coverage by {disposition.capitalize()} Outlets ({normalization.replace('_', ' ').title()})",
+        labels={"crisis_name": "Crisis", column: "Coverage"}
+    )
+    
+    # Improve layout
+    fig.update_layout(
+        xaxis_tickangle=45,
+        xaxis_title="Crisis",
+        yaxis_title="Coverage Count" if normalization == "raw" else "Normalized Coverage",
+        legend_title="Crisis",
+        margin=dict(r=100)  # Space for legend
+    )
+    
+    return fig

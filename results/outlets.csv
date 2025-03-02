@@ -1,0 +1,50 @@
+outlet_name,website,country,disposition
+NYT,nytimes.com,United States,Left
+CNN,cnn.com,United States,Left
+Fox News,foxnews.com,United States,Right
+MSN,msn.com,United States,Centre Left
+USA Today,usatoday.com,United States,Centre Left
+New York Post,nypost.com,United States,Right
+Forbes,forbes.com,United States,Centrist
+AP News,apnews.com,United States,Left
+CNBC,cnbc.com,United States,Centre Left
+yahoo,news.yahoo.com,United States,Centre Left
+Washington Post,washingtonpost.com,United States,Centre Left
+Newsweek,newsweek.com,United States,Centre Right
+NBC News,nbcnews.com,United States,Centre Left
+CBS News,cbsnews.com,United States,Centre Left
+Wall Street Journal,wsj.com,United States,Centre Right
+Buzzfeed,buzzfeed.com,United States,Left
+ABC News,abcnews.go.com,United States,Centre Left
+Business Insider,businessinsider.com,United States,Centre Left
+Drudge Report,drudgereport.com,United States,Centre Right
+Reuters,reuters.com,United States,Centrist
+BBC,bbc.com,United Kingdom,Centrist
+Mail Online,dailymail.co.uk,United Kingdom,Right
+Mirror,mirror.co.uk,United Kingdom,Centre Left
+The Sun,thesun.co.uk,United Kingdom,Right
+The Independent,independent.co.uk,United Kingdom,Centre Left
+The Guardian,theguardian.com,United Kingdom,Left
+Sky News,news.sky.com,United Kingdom,Right
+Daily Express,express.co.uk,United Kingdom,Right
+The Telegraph,telegraph.co.uk,United Kingdom,Centre Right
+ITV,itv.com,United Kingdom,Centrist
+Metro,metro.co.uk,United Kingdom,Centre Left
+Manchester Evening News,manchestereveningnews.co.uk,United Kingdom,Centre Left
+Times,thetimes.co.uk,United Kingdom,Centre Right
+The Evening Standard,standard.co.uk,United Kingdom,Centrist
+Birmigham Live,birminghammail.co.uk,United Kingdom,Centrist
+GB News,gbnews.com,United Kingdom,Right
+Radio Times,radiotimes.com,United Kingdom,Centrist
+Channel 4,channel4.com,United Kingdom,Centre Left
+Daily Record,dailyrecord.co.uk,United Kingdom,Left
+CBC (Canadian Broadcasting Corporation),cbc.ca,Canada,Centre Left
+CTV News,ctvnews.ca,Canada,Centrist
+The Globe and Mail,theglobeandmail.com,Canada,Centrist
+ABC News,abc.net.au,Australia,Centre Left
+Sky News Australia,skynews.com.au,Australia,Right
+Sydney Morning Herald ,smh.com.au,Australia,Centre Left
+News.com.au,news.com.au,Australia,Centre Right
+RT,rt.com,Other,Centre Right
+Al Jazeera,aljazeera.com,Other,Centre Left
+IRNA (Islamic Iranian News Agency),en.irna.ir,Other,IRNA
