@@ -93,15 +93,25 @@ def plot_monthly_crisis_coverage(monthly_coverage_df):
 
     return fig
 
-def plot_spider_chart(coverage_df, outlet_name):
-    outlet_data = coverage_df[coverage_df['matched_outlet'] == outlet_name]
+def plot_spider_chart(coverage_df, outlet_name, normalization="per_day"):
+    normalization_map = {
+        "raw": "raw_coverage",
+        "per_day": "coverage_per_day",
+        "per_funding": "coverage_per_funding",
+        "per_people": "coverage_per_people",
+    }
+    column = normalization_map[normalization]
+    
+    # Sort the dataframe by the specified coverage column
+    sorted_df = coverage_df.sort_values(by=column, ascending=False).reset_index()
+    outlet_data = sorted_df[sorted_df['matched_outlet'] == outlet_name]
     
     # Sort the data to ensure we have a consistent order (e.g., based on crisis_name)
     outlet_data = outlet_data.sort_values('crisis_name')
 
     # Prepare the data for the Bar Chart
     categories = outlet_data['crisis_name'].tolist()  # List of crises
-    values = outlet_data['coverage_count'].tolist()  # Corresponding coverage counts
+    values = outlet_data[column].tolist()  # Corresponding coverage counts
     
     # Create a Bar Chart
     fig = go.Figure(data=[go.Bar(
@@ -114,7 +124,7 @@ def plot_spider_chart(coverage_df, outlet_name):
 
     # Update the layout for better visualization
     fig.update_layout(
-        title=f"Crisis Coverage by {outlet_name}",
+        title=f"Crisis Coverage by {outlet_name} ({normalization.replace('_', ' ').title()})",
         xaxis_title="Crisis Name",
         yaxis_title="Coverage Count",
         xaxis=dict(tickangle=-45),

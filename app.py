@@ -14,7 +14,8 @@ chart4_df = pd.read_csv('results/chart4_spider_chart.csv')
 chart5_df = pd.read_csv('results/chart5_attention_vs_urgency.csv')
 chart6_df = pd.read_csv('results/chart6_coverage_by_disposition.csv')
 outlets_df = pd.read_csv('results/outlets.csv')
-
+gaza_df = pd.read_csv("results/gaza_vs_crises.csv")
+ukraine_df = pd.read_csv("results/ukraine_vs_crises.csv")
 
 
 # Initialize Streamlit app with a title
@@ -48,7 +49,7 @@ st.plotly_chart(fig3)
 # Chart 4: bar Chart (Outlet Selection)
 st.subheader("Media Outlet Focus Across Crises")
 outlet_name = st.selectbox('Select an outlet:', chart4_df['matched_outlet'].unique())
-fig4 = plot_spider_chart(chart4_df[chart4_df['matched_outlet'] == outlet_name], outlet_name)
+fig4 = plot_spider_chart(chart4_df[chart4_df['matched_outlet'] == outlet_name], outlet_name, normalization)
 st.plotly_chart(fig4)
 
 import json
@@ -101,5 +102,13 @@ else:
 # Chart 5: Coverage by outlets political dispositions
 st.subheader("Overall Coverage")
 disposition = st.selectbox('Select a disposition:', outlets_df['disposition'].unique())
-fig1 = plot_coverage_by_disposition(chart6_df,outlets_df, disposition, normalization=normalization)
-st.plotly_chart(fig1)
+fig5 = plot_coverage_by_disposition(chart6_df,outlets_df, disposition, normalization=normalization)
+st.plotly_chart(fig5)
+
+
+st.subheader("How Many Times More Gaza Was Covered?")
+st.dataframe(gaza_df)
+
+# Display Ukraine vs. Other Crises
+st.subheader("How Many Times More Ukraine Was Covered?")
+st.dataframe(ukraine_df)
