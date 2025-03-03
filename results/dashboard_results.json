@@ -9,10 +9,15 @@
         ]
     },
     "most_balanced_outlets": [
-        "Al Jazeera",
-        "BBC",
-        "Reuters",
-        "NYT",
-        "MSN"
+    "Al Jazeera",
+    "BBC",
+    "Reuters",
+    "NYT",
+    "MSN",
+    "The Guardian",
+    "CNN",
+    "Mail Online",
+    "Washington Post",
+    "ABC News"
     ]
 }
