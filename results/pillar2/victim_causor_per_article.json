@@ -1,0 +1,58 @@
+[
+    {
+        "group":"Russia",
+        "framing_type":"victim",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0275099095,
+        "raw_count":465
+    },
+    {
+        "group":"Russia",
+        "framing_type":"causor",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.7653670946,
+        "raw_count":12937
+    },
+    {
+        "group":"Ukraine",
+        "framing_type":"victim",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.6964444182,
+        "raw_count":11772
+    },
+    {
+        "group":"Ukraine",
+        "framing_type":"causor",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0238419216,
+        "raw_count":403
+    },
+    {
+        "group":"Israel",
+        "framing_type":"victim",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.431975641,
+        "raw_count":9789
+    },
+    {
+        "group":"Israel",
+        "framing_type":"causor",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.3366135652,
+        "raw_count":7628
+    },
+    {
+        "group":"Palestine",
+        "framing_type":"victim",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.5670093994,
+        "raw_count":12849
+    },
+    {
+        "group":"Palestine",
+        "framing_type":"causor",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0392745245,
+        "raw_count":890
+    }
+]

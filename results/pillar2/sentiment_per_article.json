@@ -1,0 +1,86 @@
+[
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4277938827,
+        "raw_count":7231
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0895698988,
+        "raw_count":1514
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.00431876,
+        "raw_count":73
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2397799207,
+        "raw_count":4053
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1100396379,
+        "raw_count":1860
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0084008756,
+        "raw_count":142
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2082432373,
+        "raw_count":4719
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0947001456,
+        "raw_count":2146
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0206963506,
+        "raw_count":469
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.5849697719,
+        "raw_count":13256
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.11460218,
+        "raw_count":2597
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.004810026,
+        "raw_count":109
+    }
+]

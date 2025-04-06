@@ -1,0 +1,86 @@
+[
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":330,
+        "article_count":22564,
+        "mentions_per_article":0.0146250665
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":4799,
+        "article_count":22564,
+        "mentions_per_article":0.2126839213
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":9052,
+        "article_count":22564,
+        "mentions_per_article":0.4011700053
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":604,
+        "article_count":22564,
+        "mentions_per_article":0.0267683035
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":5728,
+        "article_count":22564,
+        "mentions_per_article":0.2538556993
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":2051,
+        "article_count":22564,
+        "mentions_per_article":0.0908970041
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":653,
+        "article_count":16888,
+        "mentions_per_article":0.0386665088
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":5482,
+        "article_count":16888,
+        "mentions_per_article":0.32460919
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":4045,
+        "article_count":16888,
+        "mentions_per_article":0.2395191852
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":255,
+        "article_count":16888,
+        "mentions_per_article":0.0150994789
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":5519,
+        "article_count":16888,
+        "mentions_per_article":0.3268000947
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":934,
+        "article_count":16888,
+        "mentions_per_article":0.0553055424
+    }
+]
