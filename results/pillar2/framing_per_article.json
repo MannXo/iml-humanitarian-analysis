@@ -2,85 +2,3769 @@
     {
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "framing":"economic",
+        "raw_count":4,
+        "article_count":408,
+        "mentions_per_article":0.0098039216,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":109,
+        "article_count":408,
+        "mentions_per_article":0.2671568627,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":151,
+        "article_count":408,
+        "mentions_per_article":0.3700980392,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":11,
+        "article_count":408,
+        "mentions_per_article":0.0269607843,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":74,
+        "article_count":408,
+        "mentions_per_article":0.181372549,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":59,
+        "article_count":408,
+        "mentions_per_article":0.1446078431,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":13,
+        "article_count":257,
+        "mentions_per_article":0.0505836576,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":98,
+        "article_count":257,
+        "mentions_per_article":0.3813229572,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":49,
+        "article_count":257,
+        "mentions_per_article":0.1906614786,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":4,
+        "article_count":257,
+        "mentions_per_article":0.0155642023,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":53,
+        "article_count":257,
+        "mentions_per_article":0.2062256809,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":40,
+        "article_count":257,
+        "mentions_per_article":0.1556420233,
+        "outlet":"USA Today"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":10,
+        "article_count":1066,
+        "mentions_per_article":0.009380863,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":189,
+        "article_count":1066,
+        "mentions_per_article":0.1772983114,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":476,
+        "article_count":1066,
+        "mentions_per_article":0.4465290807,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":14,
+        "article_count":1066,
+        "mentions_per_article":0.0131332083,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":255,
+        "article_count":1066,
+        "mentions_per_article":0.2392120075,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":122,
+        "article_count":1066,
+        "mentions_per_article":0.1144465291,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":38,
+        "article_count":1388,
+        "mentions_per_article":0.0273775216,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":416,
+        "article_count":1388,
+        "mentions_per_article":0.2997118156,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":349,
+        "article_count":1388,
+        "mentions_per_article":0.2514409222,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":17,
+        "article_count":1388,
+        "mentions_per_article":0.0122478386,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":462,
+        "article_count":1388,
+        "mentions_per_article":0.3328530259,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":106,
+        "article_count":1388,
+        "mentions_per_article":0.0763688761,
+        "outlet":"CNN"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":11,
+        "article_count":1568,
+        "mentions_per_article":0.0070153061,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":318,
+        "article_count":1568,
+        "mentions_per_article":0.2028061224,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":864,
+        "article_count":1568,
+        "mentions_per_article":0.5510204082,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":51,
+        "article_count":1568,
+        "mentions_per_article":0.0325255102,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":290,
+        "article_count":1568,
+        "mentions_per_article":0.1849489796,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":34,
+        "article_count":1568,
+        "mentions_per_article":0.0216836735,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":30,
+        "article_count":504,
+        "mentions_per_article":0.0595238095,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":156,
+        "article_count":504,
+        "mentions_per_article":0.3095238095,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":169,
+        "article_count":504,
+        "mentions_per_article":0.3353174603,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":8,
+        "article_count":504,
+        "mentions_per_article":0.0158730159,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":129,
+        "article_count":504,
+        "mentions_per_article":0.255952381,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":12,
+        "article_count":504,
+        "mentions_per_article":0.0238095238,
+        "outlet":"The Guardian"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":7,
+        "article_count":142,
+        "mentions_per_article":0.0492957746,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":42,
+        "article_count":142,
+        "mentions_per_article":0.2957746479,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":47,
+        "article_count":142,
+        "mentions_per_article":0.3309859155,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":4,
+        "article_count":142,
+        "mentions_per_article":0.0281690141,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":39,
+        "article_count":142,
+        "mentions_per_article":0.2746478873,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":3,
+        "article_count":142,
+        "mentions_per_article":0.0211267606,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":2,
+        "article_count":88,
+        "mentions_per_article":0.0227272727,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":44,
+        "article_count":88,
+        "mentions_per_article":0.5,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":9,
+        "article_count":88,
+        "mentions_per_article":0.1022727273,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":2,
+        "article_count":88,
+        "mentions_per_article":0.0227272727,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":29,
+        "article_count":88,
+        "mentions_per_article":0.3295454545,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":2,
+        "article_count":88,
+        "mentions_per_article":0.0227272727,
+        "outlet":"RT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":7,
+        "article_count":820,
+        "mentions_per_article":0.0085365854,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":150,
+        "article_count":820,
+        "mentions_per_article":0.1829268293,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":471,
+        "article_count":820,
+        "mentions_per_article":0.5743902439,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":29,
+        "article_count":820,
+        "mentions_per_article":0.0353658537,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":135,
+        "article_count":820,
+        "mentions_per_article":0.1646341463,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":28,
+        "article_count":820,
+        "mentions_per_article":0.0341463415,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":19,
+        "article_count":271,
+        "mentions_per_article":0.0701107011,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":62,
+        "article_count":271,
+        "mentions_per_article":0.2287822878,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":118,
+        "article_count":271,
+        "mentions_per_article":0.4354243542,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":4,
+        "article_count":271,
+        "mentions_per_article":0.0147601476,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":58,
+        "article_count":271,
+        "mentions_per_article":0.2140221402,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":10,
+        "article_count":271,
+        "mentions_per_article":0.036900369,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":8,
+        "article_count":1427,
+        "mentions_per_article":0.0056061668,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":179,
+        "article_count":1427,
+        "mentions_per_article":0.1254379818,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":730,
+        "article_count":1427,
+        "mentions_per_article":0.511562719,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":47,
+        "article_count":1427,
+        "mentions_per_article":0.0329362299,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":366,
+        "article_count":1427,
+        "mentions_per_article":0.2564821303,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":97,
+        "article_count":1427,
+        "mentions_per_article":0.0679747722,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":48,
+        "article_count":1266,
+        "mentions_per_article":0.0379146919,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":439,
+        "article_count":1266,
+        "mentions_per_article":0.3467614534,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":243,
+        "article_count":1266,
+        "mentions_per_article":0.191943128,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":20,
+        "article_count":1266,
+        "mentions_per_article":0.0157977883,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":460,
+        "article_count":1266,
+        "mentions_per_article":0.3633491311,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":56,
+        "article_count":1266,
+        "mentions_per_article":0.0442338073,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":1,
+        "article_count":2,
+        "mentions_per_article":0.5,
+        "outlet":"Wall Street Journal"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":1,
+        "article_count":2,
+        "mentions_per_article":0.5,
+        "outlet":"Wall Street Journal"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":5,
+        "article_count":519,
+        "mentions_per_article":0.0096339114,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":70,
+        "article_count":519,
+        "mentions_per_article":0.1348747592,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":149,
+        "article_count":519,
+        "mentions_per_article":0.2870905588,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":10,
+        "article_count":519,
+        "mentions_per_article":0.0192678227,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":234,
+        "article_count":519,
+        "mentions_per_article":0.450867052,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":51,
+        "article_count":519,
+        "mentions_per_article":0.098265896,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":8,
+        "article_count":589,
+        "mentions_per_article":0.013582343,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":144,
+        "article_count":589,
+        "mentions_per_article":0.2444821732,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":120,
+        "article_count":589,
+        "mentions_per_article":0.2037351443,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":4,
+        "article_count":589,
+        "mentions_per_article":0.0067911715,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":285,
+        "article_count":589,
+        "mentions_per_article":0.4838709677,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":28,
+        "article_count":589,
+        "mentions_per_article":0.0475382003,
+        "outlet":"The Sun"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":13,
+        "article_count":722,
+        "mentions_per_article":0.0180055402,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":145,
+        "article_count":722,
+        "mentions_per_article":0.2008310249,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":238,
+        "article_count":722,
+        "mentions_per_article":0.3296398892,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":24,
+        "article_count":722,
+        "mentions_per_article":0.0332409972,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":117,
+        "article_count":722,
+        "mentions_per_article":0.1620498615,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":185,
+        "article_count":722,
+        "mentions_per_article":0.256232687,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":7,
+        "article_count":140,
+        "mentions_per_article":0.05,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":42,
+        "article_count":140,
+        "mentions_per_article":0.3,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":30,
+        "article_count":140,
+        "mentions_per_article":0.2142857143,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":3,
+        "article_count":140,
+        "mentions_per_article":0.0214285714,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":36,
+        "article_count":140,
+        "mentions_per_article":0.2571428571,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":22,
+        "article_count":140,
+        "mentions_per_article":0.1571428571,
+        "outlet":"yahoo"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":13,
+        "article_count":170,
+        "mentions_per_article":0.0764705882,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":31,
+        "article_count":170,
+        "mentions_per_article":0.1823529412,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":34,
+        "article_count":170,
+        "mentions_per_article":0.2,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":3,
+        "article_count":170,
+        "mentions_per_article":0.0176470588,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":71,
+        "article_count":170,
+        "mentions_per_article":0.4176470588,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":18,
+        "article_count":170,
+        "mentions_per_article":0.1058823529,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":12,
+        "article_count":86,
+        "mentions_per_article":0.1395348837,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":21,
+        "article_count":86,
+        "mentions_per_article":0.2441860465,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":11,
+        "article_count":86,
+        "mentions_per_article":0.1279069767,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":1,
+        "article_count":86,
+        "mentions_per_article":0.011627907,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":40,
+        "article_count":86,
+        "mentions_per_article":0.4651162791,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":1,
+        "article_count":86,
+        "mentions_per_article":0.011627907,
+        "outlet":"Business Insider"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":3,
+        "article_count":837,
+        "mentions_per_article":0.0035842294,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":278,
+        "article_count":837,
+        "mentions_per_article":0.3321385902,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":202,
+        "article_count":837,
+        "mentions_per_article":0.2413381123,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":33,
+        "article_count":837,
+        "mentions_per_article":0.0394265233,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":234,
+        "article_count":837,
+        "mentions_per_article":0.2795698925,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":87,
+        "article_count":837,
+        "mentions_per_article":0.1039426523,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":8,
+        "article_count":774,
+        "mentions_per_article":0.0103359173,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":277,
+        "article_count":774,
+        "mentions_per_article":0.357881137,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":198,
+        "article_count":774,
+        "mentions_per_article":0.2558139535,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":11,
+        "article_count":774,
+        "mentions_per_article":0.0142118863,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":221,
+        "article_count":774,
+        "mentions_per_article":0.2855297158,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":59,
+        "article_count":774,
+        "mentions_per_article":0.0762273902,
+        "outlet":"Fox News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":2,
+        "article_count":6,
+        "mentions_per_article":0.3333333333,
+        "outlet":"Radio Times"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":4,
+        "article_count":6,
+        "mentions_per_article":0.6666666667,
+        "outlet":"Radio Times"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":1,
+        "article_count":2,
+        "mentions_per_article":0.5,
+        "outlet":"Radio Times"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":1,
+        "article_count":2,
+        "mentions_per_article":0.5,
+        "outlet":"Radio Times"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":1,
+        "article_count":23,
+        "mentions_per_article":0.0434782609,
+        "outlet":"CTV News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":8,
+        "article_count":23,
+        "mentions_per_article":0.347826087,
+        "outlet":"CTV News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":4,
+        "article_count":23,
+        "mentions_per_article":0.1739130435,
+        "outlet":"CTV News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":4,
+        "article_count":23,
+        "mentions_per_article":0.1739130435,
+        "outlet":"CTV News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":6,
+        "article_count":23,
+        "mentions_per_article":0.2608695652,
+        "outlet":"CTV News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":1,
+        "article_count":9,
+        "mentions_per_article":0.1111111111,
+        "outlet":"CTV News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":1,
+        "article_count":9,
+        "mentions_per_article":0.1111111111,
+        "outlet":"CTV News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":7,
+        "article_count":9,
+        "mentions_per_article":0.7777777778,
+        "outlet":"CTV News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":3,
+        "article_count":85,
+        "mentions_per_article":0.0352941176,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":23,
+        "article_count":85,
+        "mentions_per_article":0.2705882353,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":20,
+        "article_count":85,
+        "mentions_per_article":0.2352941176,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":2,
+        "article_count":85,
+        "mentions_per_article":0.0235294118,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":8,
+        "article_count":85,
+        "mentions_per_article":0.0941176471,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":29,
+        "article_count":85,
+        "mentions_per_article":0.3411764706,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":3,
+        "article_count":15,
+        "mentions_per_article":0.2,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":4,
+        "article_count":15,
+        "mentions_per_article":0.2666666667,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":1,
+        "article_count":15,
+        "mentions_per_article":0.0666666667,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":6,
+        "article_count":15,
+        "mentions_per_article":0.4,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":1,
+        "article_count":15,
+        "mentions_per_article":0.0666666667,
+        "outlet":"GB News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":1,
+        "article_count":93,
+        "mentions_per_article":0.0107526882,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":18,
+        "article_count":93,
+        "mentions_per_article":0.1935483871,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":34,
+        "article_count":93,
+        "mentions_per_article":0.3655913978,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":3,
+        "article_count":93,
+        "mentions_per_article":0.0322580645,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":37,
+        "article_count":93,
+        "mentions_per_article":0.3978494624,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":2,
+        "article_count":5,
+        "mentions_per_article":0.4,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":2,
+        "article_count":5,
+        "mentions_per_article":0.4,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":1,
+        "article_count":5,
+        "mentions_per_article":0.2,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":6,
+        "article_count":28,
+        "mentions_per_article":0.2142857143,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":15,
+        "article_count":28,
+        "mentions_per_article":0.5357142857,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":1,
+        "article_count":28,
+        "mentions_per_article":0.0357142857,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":6,
+        "article_count":28,
+        "mentions_per_article":0.2142857143,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":2,
+        "article_count":11,
+        "mentions_per_article":0.1818181818,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":3,
+        "article_count":11,
+        "mentions_per_article":0.2727272727,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":5,
+        "article_count":11,
+        "mentions_per_article":0.4545454545,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":1,
+        "article_count":11,
+        "mentions_per_article":0.0909090909,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":7,
+        "article_count":21,
+        "mentions_per_article":0.3333333333,
+        "outlet":"Channel 4"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":4,
+        "article_count":21,
+        "mentions_per_article":0.1904761905,
+        "outlet":"Channel 4"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":9,
+        "article_count":21,
+        "mentions_per_article":0.4285714286,
+        "outlet":"Channel 4"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":1,
+        "article_count":21,
+        "mentions_per_article":0.0476190476,
+        "outlet":"Channel 4"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":3,
+        "article_count":5,
+        "mentions_per_article":0.6,
+        "outlet":"Channel 4"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":2,
+        "article_count":5,
+        "mentions_per_article":0.4,
+        "outlet":"Channel 4"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":3,
+        "article_count":86,
+        "mentions_per_article":0.0348837209,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":6,
+        "article_count":86,
+        "mentions_per_article":0.0697674419,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":8,
+        "article_count":86,
+        "mentions_per_article":0.0930232558,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":69,
+        "article_count":86,
+        "mentions_per_article":0.8023255814,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":3,
+        "article_count":17,
+        "mentions_per_article":0.1764705882,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":3,
+        "article_count":17,
+        "mentions_per_article":0.1764705882,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":5,
+        "article_count":17,
+        "mentions_per_article":0.2941176471,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":1,
+        "article_count":17,
+        "mentions_per_article":0.0588235294,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":5,
+        "article_count":17,
+        "mentions_per_article":0.2941176471,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":14,
+        "article_count":55,
+        "mentions_per_article":0.2545454545,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":33,
+        "article_count":55,
+        "mentions_per_article":0.6,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":3,
+        "article_count":55,
+        "mentions_per_article":0.0545454545,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":5,
+        "article_count":55,
+        "mentions_per_article":0.0909090909,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":2,
+        "article_count":40,
+        "mentions_per_article":0.05,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":4,
+        "article_count":40,
+        "mentions_per_article":0.1,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":21,
+        "article_count":40,
+        "mentions_per_article":0.525,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":2,
+        "article_count":40,
+        "mentions_per_article":0.05,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":11,
+        "article_count":40,
+        "mentions_per_article":0.275,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":58,
+        "article_count":139,
+        "mentions_per_article":0.4172661871,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":37,
+        "article_count":139,
+        "mentions_per_article":0.2661870504,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":9,
+        "article_count":139,
+        "mentions_per_article":0.0647482014,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":13,
+        "article_count":139,
+        "mentions_per_article":0.0935251799,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":22,
+        "article_count":139,
+        "mentions_per_article":0.1582733813,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":3,
+        "article_count":66,
+        "mentions_per_article":0.0454545455,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":27,
+        "article_count":66,
+        "mentions_per_article":0.4090909091,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":5,
+        "article_count":66,
+        "mentions_per_article":0.0757575758,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":1,
+        "article_count":66,
+        "mentions_per_article":0.0151515152,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":28,
+        "article_count":66,
+        "mentions_per_article":0.4242424242,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":2,
+        "article_count":66,
+        "mentions_per_article":0.0303030303,
+        "outlet":"News.com.au"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":3,
+        "article_count":116,
+        "mentions_per_article":0.025862069,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":9,
+        "article_count":116,
+        "mentions_per_article":0.0775862069,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":42,
+        "article_count":116,
+        "mentions_per_article":0.3620689655,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":2,
+        "article_count":116,
+        "mentions_per_article":0.0172413793,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":7,
+        "article_count":116,
+        "mentions_per_article":0.0603448276,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":53,
+        "article_count":116,
+        "mentions_per_article":0.4568965517,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":1,
+        "article_count":89,
+        "mentions_per_article":0.0112359551,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":14,
+        "article_count":89,
+        "mentions_per_article":0.1573033708,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":43,
+        "article_count":89,
+        "mentions_per_article":0.4831460674,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":16,
+        "article_count":89,
+        "mentions_per_article":0.1797752809,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":15,
+        "article_count":89,
+        "mentions_per_article":0.1685393258,
+        "outlet":"Daily Record"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":7,
+        "article_count":14,
+        "mentions_per_article":0.5,
+        "outlet":"Reuters"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":6,
+        "article_count":14,
+        "mentions_per_article":0.4285714286,
+        "outlet":"Reuters"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":1,
+        "article_count":14,
+        "mentions_per_article":0.0714285714,
+        "outlet":"Reuters"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":6,
+        "article_count":6,
+        "mentions_per_article":1.0,
+        "outlet":"Reuters"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":25,
+        "article_count":111,
+        "mentions_per_article":0.2252252252,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":44,
+        "article_count":111,
+        "mentions_per_article":0.3963963964,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":3,
+        "article_count":111,
+        "mentions_per_article":0.027027027,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":26,
+        "article_count":111,
+        "mentions_per_article":0.2342342342,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":13,
+        "article_count":111,
+        "mentions_per_article":0.1171171171,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":5,
+        "article_count":27,
+        "mentions_per_article":0.1851851852,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":7,
+        "article_count":27,
+        "mentions_per_article":0.2592592593,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":6,
+        "article_count":27,
+        "mentions_per_article":0.2222222222,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":1,
+        "article_count":27,
+        "mentions_per_article":0.037037037,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":8,
+        "article_count":27,
+        "mentions_per_article":0.2962962963,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":37,
+        "article_count":201,
+        "mentions_per_article":0.184079602,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":53,
+        "article_count":201,
+        "mentions_per_article":0.263681592,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":45,
+        "article_count":201,
+        "mentions_per_article":0.223880597,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":7,
+        "article_count":201,
+        "mentions_per_article":0.0348258706,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":54,
+        "article_count":201,
+        "mentions_per_article":0.2686567164,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":5,
+        "article_count":201,
+        "mentions_per_article":0.0248756219,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":47,
+        "article_count":430,
+        "mentions_per_article":0.1093023256,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":206,
+        "article_count":430,
+        "mentions_per_article":0.4790697674,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":23,
+        "article_count":430,
+        "mentions_per_article":0.0534883721,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":3,
+        "article_count":430,
+        "mentions_per_article":0.0069767442,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":151,
+        "article_count":430,
+        "mentions_per_article":0.3511627907,
+        "outlet":"CNBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":4,
+        "article_count":240,
+        "mentions_per_article":0.0166666667,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":32,
+        "article_count":240,
+        "mentions_per_article":0.1333333333,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":106,
+        "article_count":240,
+        "mentions_per_article":0.4416666667,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":9,
+        "article_count":240,
+        "mentions_per_article":0.0375,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":34,
+        "article_count":240,
+        "mentions_per_article":0.1416666667,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":55,
+        "article_count":240,
+        "mentions_per_article":0.2291666667,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":7,
+        "article_count":131,
+        "mentions_per_article":0.0534351145,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":30,
+        "article_count":131,
+        "mentions_per_article":0.2290076336,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":50,
+        "article_count":131,
+        "mentions_per_article":0.3816793893,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":4,
+        "article_count":131,
+        "mentions_per_article":0.0305343511,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":16,
+        "article_count":131,
+        "mentions_per_article":0.1221374046,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":24,
+        "article_count":131,
+        "mentions_per_article":0.1832061069,
+        "outlet":"ITV"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":16,
+        "article_count":1395,
+        "mentions_per_article":0.0114695341,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":260,
+        "article_count":1395,
+        "mentions_per_article":0.1863799283,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":563,
+        "article_count":1395,
+        "mentions_per_article":0.4035842294,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":31,
+        "article_count":1395,
+        "mentions_per_article":0.0222222222,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":382,
+        "article_count":1395,
+        "mentions_per_article":0.2738351254,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":143,
+        "article_count":1395,
+        "mentions_per_article":0.1025089606,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":35,
+        "article_count":856,
+        "mentions_per_article":0.0408878505,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":258,
+        "article_count":856,
+        "mentions_per_article":0.3014018692,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":235,
+        "article_count":856,
+        "mentions_per_article":0.2745327103,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":17,
+        "article_count":856,
+        "mentions_per_article":0.0198598131,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":288,
+        "article_count":856,
+        "mentions_per_article":0.3364485981,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":23,
+        "article_count":856,
+        "mentions_per_article":0.0268691589,
+        "outlet":"ABC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":16,
+        "article_count":140,
+        "mentions_per_article":0.1142857143,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":36,
+        "article_count":140,
+        "mentions_per_article":0.2571428571,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":41,
+        "article_count":140,
+        "mentions_per_article":0.2928571429,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":6,
+        "article_count":140,
+        "mentions_per_article":0.0428571429,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":31,
+        "article_count":140,
+        "mentions_per_article":0.2214285714,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":10,
+        "article_count":140,
+        "mentions_per_article":0.0714285714,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":36,
+        "article_count":301,
+        "mentions_per_article":0.1196013289,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":87,
+        "article_count":301,
+        "mentions_per_article":0.2890365449,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":34,
+        "article_count":301,
+        "mentions_per_article":0.1129568106,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":2,
+        "article_count":301,
+        "mentions_per_article":0.0066445183,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":136,
+        "article_count":301,
+        "mentions_per_article":0.4518272425,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":6,
+        "article_count":301,
+        "mentions_per_article":0.0199335548,
+        "outlet":"Forbes"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":2,
+        "article_count":325,
+        "mentions_per_article":0.0061538462,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":72,
+        "article_count":325,
+        "mentions_per_article":0.2215384615,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":134,
+        "article_count":325,
+        "mentions_per_article":0.4123076923,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":6,
+        "article_count":325,
+        "mentions_per_article":0.0184615385,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":65,
+        "article_count":325,
+        "mentions_per_article":0.2,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":46,
+        "article_count":325,
+        "mentions_per_article":0.1415384615,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":30,
+        "article_count":723,
+        "mentions_per_article":0.0414937759,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":193,
+        "article_count":723,
+        "mentions_per_article":0.2669432918,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":224,
+        "article_count":723,
+        "mentions_per_article":0.3098201936,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":3,
+        "article_count":723,
+        "mentions_per_article":0.0041493776,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":246,
+        "article_count":723,
+        "mentions_per_article":0.3402489627,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":27,
+        "article_count":723,
+        "mentions_per_article":0.0373443983,
+        "outlet":"Metro"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":18,
+        "article_count":408,
+        "mentions_per_article":0.0441176471,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":67,
+        "article_count":408,
+        "mentions_per_article":0.1642156863,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":184,
+        "article_count":408,
+        "mentions_per_article":0.4509803922,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":8,
+        "article_count":408,
+        "mentions_per_article":0.0196078431,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":116,
+        "article_count":408,
+        "mentions_per_article":0.2843137255,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":15,
+        "article_count":408,
+        "mentions_per_article":0.0367647059,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":19,
+        "article_count":79,
+        "mentions_per_article":0.2405063291,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":34,
+        "article_count":79,
+        "mentions_per_article":0.4303797468,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":6,
+        "article_count":79,
+        "mentions_per_article":0.0759493671,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":2,
+        "article_count":79,
+        "mentions_per_article":0.0253164557,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":18,
+        "article_count":79,
+        "mentions_per_article":0.2278481013,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":10,
+        "article_count":313,
+        "mentions_per_article":0.0319488818,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":34,
+        "article_count":313,
+        "mentions_per_article":0.1086261981,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":127,
+        "article_count":313,
+        "mentions_per_article":0.4057507987,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":6,
+        "article_count":313,
+        "mentions_per_article":0.0191693291,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":61,
+        "article_count":313,
+        "mentions_per_article":0.1948881789,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":75,
+        "article_count":313,
+        "mentions_per_article":0.2396166134,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":7,
+        "article_count":223,
+        "mentions_per_article":0.0313901345,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":44,
+        "article_count":223,
+        "mentions_per_article":0.197309417,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":59,
+        "article_count":223,
+        "mentions_per_article":0.264573991,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":6,
+        "article_count":223,
+        "mentions_per_article":0.0269058296,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":70,
+        "article_count":223,
+        "mentions_per_article":0.3139013453,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":37,
+        "article_count":223,
+        "mentions_per_article":0.1659192825,
+        "outlet":"Mirror"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":19,
+        "article_count":279,
+        "mentions_per_article":0.0681003584,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":67,
+        "article_count":279,
+        "mentions_per_article":0.2401433692,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":79,
+        "article_count":279,
+        "mentions_per_article":0.2831541219,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":10,
+        "article_count":279,
+        "mentions_per_article":0.0358422939,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":62,
+        "article_count":279,
+        "mentions_per_article":0.2222222222,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":42,
+        "article_count":279,
+        "mentions_per_article":0.1505376344,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":10,
+        "article_count":199,
+        "mentions_per_article":0.0502512563,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":54,
+        "article_count":199,
+        "mentions_per_article":0.2713567839,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":28,
+        "article_count":199,
+        "mentions_per_article":0.1407035176,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":3,
+        "article_count":199,
+        "mentions_per_article":0.0150753769,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":84,
+        "article_count":199,
+        "mentions_per_article":0.4221105528,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":20,
+        "article_count":199,
+        "mentions_per_article":0.1005025126,
+        "outlet":"Daily Express"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":21,
+        "article_count":638,
+        "mentions_per_article":0.0329153605,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":177,
+        "article_count":638,
+        "mentions_per_article":0.2774294671,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":163,
+        "article_count":638,
+        "mentions_per_article":0.2554858934,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":22,
+        "article_count":638,
+        "mentions_per_article":0.0344827586,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":183,
+        "article_count":638,
+        "mentions_per_article":0.2868338558,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":72,
+        "article_count":638,
+        "mentions_per_article":0.1128526646,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":31,
+        "article_count":821,
+        "mentions_per_article":0.0377588307,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":259,
+        "article_count":821,
+        "mentions_per_article":0.3154689403,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":145,
+        "article_count":821,
+        "mentions_per_article":0.1766138855,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":14,
+        "article_count":821,
+        "mentions_per_article":0.0170523752,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":344,
+        "article_count":821,
+        "mentions_per_article":0.419001218,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":28,
+        "article_count":821,
+        "mentions_per_article":0.0341047503,
+        "outlet":"The Telegraph"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":7,
+        "article_count":432,
+        "mentions_per_article":0.0162037037,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":98,
+        "article_count":432,
+        "mentions_per_article":0.2268518519,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":182,
+        "article_count":432,
+        "mentions_per_article":0.4212962963,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":26,
+        "article_count":432,
+        "mentions_per_article":0.0601851852,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":53,
+        "article_count":432,
+        "mentions_per_article":0.1226851852,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":66,
+        "article_count":432,
+        "mentions_per_article":0.1527777778,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":5,
+        "article_count":223,
+        "mentions_per_article":0.0224215247,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":78,
+        "article_count":223,
+        "mentions_per_article":0.3497757848,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":69,
+        "article_count":223,
+        "mentions_per_article":0.3094170404,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":1,
+        "article_count":223,
+        "mentions_per_article":0.0044843049,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":64,
+        "article_count":223,
+        "mentions_per_article":0.2869955157,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":6,
+        "article_count":223,
+        "mentions_per_article":0.0269058296,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":5,
+        "article_count":1005,
+        "mentions_per_article":0.0049751244,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":204,
+        "article_count":1005,
+        "mentions_per_article":0.2029850746,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":442,
+        "article_count":1005,
+        "mentions_per_article":0.439800995,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":22,
+        "article_count":1005,
+        "mentions_per_article":0.0218905473,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":244,
+        "article_count":1005,
+        "mentions_per_article":0.2427860697,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":88,
+        "article_count":1005,
+        "mentions_per_article":0.0875621891,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":12,
+        "article_count":613,
+        "mentions_per_article":0.0195758564,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":212,
+        "article_count":613,
+        "mentions_per_article":0.3458401305,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":134,
+        "article_count":613,
+        "mentions_per_article":0.2185970636,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":19,
+        "article_count":613,
+        "mentions_per_article":0.030995106,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":209,
+        "article_count":613,
+        "mentions_per_article":0.3409461664,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":27,
+        "article_count":613,
+        "mentions_per_article":0.044045677,
+        "outlet":"NBC News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":7,
+        "article_count":877,
+        "mentions_per_article":0.007981756,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":251,
+        "article_count":877,
+        "mentions_per_article":0.2862029647,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":282,
+        "article_count":877,
+        "mentions_per_article":0.3215507412,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":23,
+        "article_count":877,
+        "mentions_per_article":0.0262257697,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":216,
+        "article_count":877,
+        "mentions_per_article":0.2462941847,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":98,
+        "article_count":877,
+        "mentions_per_article":0.1117445838,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":22,
+        "article_count":676,
+        "mentions_per_article":0.0325443787,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":186,
+        "article_count":676,
+        "mentions_per_article":0.275147929,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":169,
+        "article_count":676,
+        "mentions_per_article":0.25,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":23,
+        "article_count":676,
+        "mentions_per_article":0.0340236686,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":171,
+        "article_count":676,
+        "mentions_per_article":0.2529585799,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":105,
+        "article_count":676,
+        "mentions_per_article":0.1553254438,
+        "outlet":"CBS News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":7,
+        "article_count":1076,
+        "mentions_per_article":0.0065055762,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":227,
+        "article_count":1076,
+        "mentions_per_article":0.2109665428,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":348,
+        "article_count":1076,
+        "mentions_per_article":0.3234200743,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":16,
+        "article_count":1076,
+        "mentions_per_article":0.0148698885,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":270,
+        "article_count":1076,
+        "mentions_per_article":0.250929368,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":208,
+        "article_count":1076,
+        "mentions_per_article":0.1933085502,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":40,
+        "article_count":986,
+        "mentions_per_article":0.0405679513,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":378,
+        "article_count":986,
+        "mentions_per_article":0.38336714,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":159,
+        "article_count":986,
+        "mentions_per_article":0.1612576065,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":14,
+        "article_count":986,
+        "mentions_per_article":0.014198783,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":273,
+        "article_count":986,
+        "mentions_per_article":0.2768762677,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":122,
+        "article_count":986,
+        "mentions_per_article":0.1237322515,
+        "outlet":"Sky News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":3,
+        "article_count":947,
+        "mentions_per_article":0.0031678986,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":320,
+        "article_count":947,
+        "mentions_per_article":0.3379091869,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":288,
+        "article_count":947,
+        "mentions_per_article":0.3041182682,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":23,
+        "article_count":947,
+        "mentions_per_article":0.0242872228,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":261,
+        "article_count":947,
+        "mentions_per_article":0.2756071806,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":52,
+        "article_count":947,
+        "mentions_per_article":0.0549102429,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":17,
+        "article_count":569,
+        "mentions_per_article":0.0298769772,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":188,
+        "article_count":569,
+        "mentions_per_article":0.3304042179,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":140,
+        "article_count":569,
+        "mentions_per_article":0.2460456942,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":12,
+        "article_count":569,
+        "mentions_per_article":0.0210896309,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":195,
+        "article_count":569,
+        "mentions_per_article":0.3427065026,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":17,
+        "article_count":569,
+        "mentions_per_article":0.0298769772,
+        "outlet":"New York Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":6,
+        "article_count":865,
+        "mentions_per_article":0.0069364162,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":158,
+        "article_count":865,
+        "mentions_per_article":0.1826589595,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":463,
+        "article_count":865,
+        "mentions_per_article":0.5352601156,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":19,
+        "article_count":865,
+        "mentions_per_article":0.0219653179,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":205,
+        "article_count":865,
+        "mentions_per_article":0.2369942197,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":14,
+        "article_count":865,
+        "mentions_per_article":0.0161849711,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":15,
+        "article_count":749,
+        "mentions_per_article":0.0200267023,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":263,
+        "article_count":749,
+        "mentions_per_article":0.3511348465,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":214,
+        "article_count":749,
+        "mentions_per_article":0.2857142857,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":12,
+        "article_count":749,
+        "mentions_per_article":0.0160213618,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":228,
+        "article_count":749,
+        "mentions_per_article":0.3044058745,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":17,
+        "article_count":749,
+        "mentions_per_article":0.0226969292,
+        "outlet":"The Independent"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":12,
+        "article_count":926,
+        "mentions_per_article":0.0129589633,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":161,
+        "article_count":926,
+        "mentions_per_article":0.1738660907,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":440,
+        "article_count":926,
+        "mentions_per_article":0.475161987,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":31,
+        "article_count":926,
+        "mentions_per_article":0.0334773218,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":257,
+        "article_count":926,
+        "mentions_per_article":0.277537797,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":25,
+        "article_count":926,
+        "mentions_per_article":0.0269978402,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":8,
+        "article_count":260,
+        "mentions_per_article":0.0307692308,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":72,
+        "article_count":260,
+        "mentions_per_article":0.2769230769,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":90,
+        "article_count":260,
+        "mentions_per_article":0.3461538462,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":16,
+        "article_count":260,
+        "mentions_per_article":0.0615384615,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":61,
+        "article_count":260,
+        "mentions_per_article":0.2346153846,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":13,
+        "article_count":260,
+        "mentions_per_article":0.05,
+        "outlet":"AP News"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":6,
+        "article_count":935,
+        "mentions_per_article":0.0064171123,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":176,
+        "article_count":935,
+        "mentions_per_article":0.1882352941,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":356,
+        "article_count":935,
+        "mentions_per_article":0.3807486631,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":10,
+        "article_count":935,
+        "mentions_per_article":0.0106951872,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":369,
+        "article_count":935,
+        "mentions_per_article":0.3946524064,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":18,
+        "article_count":935,
+        "mentions_per_article":0.0192513369,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":21,
+        "article_count":744,
+        "mentions_per_article":0.0282258065,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":333,
+        "article_count":744,
+        "mentions_per_article":0.4475806452,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":152,
+        "article_count":744,
+        "mentions_per_article":0.2043010753,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":6,
+        "article_count":744,
+        "mentions_per_article":0.0080645161,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":217,
+        "article_count":744,
+        "mentions_per_article":0.2916666667,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":15,
+        "article_count":744,
+        "mentions_per_article":0.0201612903,
+        "outlet":"Washington Post"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":15,
+        "article_count":905,
+        "mentions_per_article":0.0165745856,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":219,
+        "article_count":905,
+        "mentions_per_article":0.2419889503,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":315,
+        "article_count":905,
+        "mentions_per_article":0.3480662983,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":19,
+        "article_count":905,
+        "mentions_per_article":0.0209944751,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":291,
+        "article_count":905,
+        "mentions_per_article":0.3215469613,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":46,
+        "article_count":905,
+        "mentions_per_article":0.0508287293,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":27,
+        "article_count":1008,
+        "mentions_per_article":0.0267857143,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":266,
+        "article_count":1008,
+        "mentions_per_article":0.2638888889,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":289,
+        "article_count":1008,
+        "mentions_per_article":0.2867063492,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":3,
+        "article_count":1008,
+        "mentions_per_article":0.0029761905,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":392,
+        "article_count":1008,
+        "mentions_per_article":0.3888888889,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":31,
+        "article_count":1008,
+        "mentions_per_article":0.0307539683,
+        "outlet":"Mail Online"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":17,
+        "article_count":1370,
+        "mentions_per_article":0.0124087591,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":353,
+        "article_count":1370,
+        "mentions_per_article":0.2576642336,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":517,
+        "article_count":1370,
+        "mentions_per_article":0.3773722628,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":37,
+        "article_count":1370,
+        "mentions_per_article":0.0270072993,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":404,
+        "article_count":1370,
+        "mentions_per_article":0.2948905109,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":42,
+        "article_count":1370,
+        "mentions_per_article":0.0306569343,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":39,
+        "article_count":1199,
+        "mentions_per_article":0.0325271059,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":446,
+        "article_count":1199,
+        "mentions_per_article":0.3719766472,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":295,
+        "article_count":1199,
+        "mentions_per_article":0.2460383653,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":10,
+        "article_count":1199,
+        "mentions_per_article":0.0083402836,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":393,
+        "article_count":1199,
+        "mentions_per_article":0.3277731443,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":16,
+        "article_count":1199,
+        "mentions_per_article":0.0133444537,
+        "outlet":"NYT"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
+        "raw_count":10,
+        "article_count":829,
+        "mentions_per_article":0.0120627262,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"geopolitical",
+        "raw_count":147,
+        "article_count":829,
+        "mentions_per_article":0.1773220748,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"humanitarian",
+        "raw_count":366,
+        "article_count":829,
+        "mentions_per_article":0.441495778,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"legal",
+        "raw_count":28,
+        "article_count":829,
+        "mentions_per_article":0.0337756333,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"military",
+        "raw_count":241,
+        "article_count":829,
+        "mentions_per_article":0.2907117008,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"other",
+        "raw_count":37,
+        "article_count":829,
+        "mentions_per_article":0.0446320869,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"economic",
+        "raw_count":20,
+        "article_count":443,
+        "mentions_per_article":0.0451467269,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"geopolitical",
+        "raw_count":128,
+        "article_count":443,
+        "mentions_per_article":0.2889390519,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"humanitarian",
+        "raw_count":145,
+        "article_count":443,
+        "mentions_per_article":0.3273137698,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"legal",
+        "raw_count":9,
+        "article_count":443,
+        "mentions_per_article":0.0203160271,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"military",
+        "raw_count":120,
+        "article_count":443,
+        "mentions_per_article":0.2708803612,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Ukraine",
+        "framing":"other",
+        "raw_count":21,
+        "article_count":443,
+        "mentions_per_article":0.0474040632,
+        "outlet":"BBC"
+    },
+    {
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "framing":"economic",
         "raw_count":330,
         "article_count":22564,
-        "mentions_per_article":0.0146250665
+        "mentions_per_article":0.0146250665,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "framing":"geopolitical",
         "raw_count":4799,
         "article_count":22564,
-        "mentions_per_article":0.2126839213
+        "mentions_per_article":0.2126839213,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "framing":"humanitarian",
         "raw_count":9052,
         "article_count":22564,
-        "mentions_per_article":0.4011700053
+        "mentions_per_article":0.4011700053,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "framing":"legal",
         "raw_count":604,
         "article_count":22564,
-        "mentions_per_article":0.0267683035
+        "mentions_per_article":0.0267683035,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "framing":"military",
         "raw_count":5728,
         "article_count":22564,
-        "mentions_per_article":0.2538556993
+        "mentions_per_article":0.2538556993,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "framing":"other",
         "raw_count":2051,
         "article_count":22564,
-        "mentions_per_article":0.0908970041
+        "mentions_per_article":0.0908970041,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Ukraine",
         "framing":"economic",
         "raw_count":653,
         "article_count":16888,
-        "mentions_per_article":0.0386665088
+        "mentions_per_article":0.0386665088,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Ukraine",
         "framing":"geopolitical",
         "raw_count":5482,
         "article_count":16888,
-        "mentions_per_article":0.32460919
+        "mentions_per_article":0.32460919,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Ukraine",
         "framing":"humanitarian",
         "raw_count":4045,
         "article_count":16888,
-        "mentions_per_article":0.2395191852
+        "mentions_per_article":0.2395191852,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Ukraine",
         "framing":"legal",
         "raw_count":255,
         "article_count":16888,
-        "mentions_per_article":0.0150994789
+        "mentions_per_article":0.0150994789,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Ukraine",
         "framing":"military",
         "raw_count":5519,
         "article_count":16888,
-        "mentions_per_article":0.3268000947
+        "mentions_per_article":0.3268000947,
+        "outlet":"All Outlets"
     },
     {
         "crisis_name":"Ukraine",
         "framing":"other",
         "raw_count":934,
         "article_count":16888,
-        "mentions_per_article":0.0553055424
+        "mentions_per_article":0.0553055424,
+        "outlet":"All Outlets"
     }
 ]

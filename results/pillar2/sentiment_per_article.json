@@ -3,84 +3,3440 @@
         "entity":"Putin",
         "sentiment":"negative",
         "crisis_name":"Ukraine",
+        "mentions_per_article":0.4108527132,
+        "raw_count":106,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0503875969,
+        "raw_count":13,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.003875969,
+        "raw_count":1,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2131782946,
+        "raw_count":55,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0775193798,
+        "raw_count":20,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.003875969,
+        "raw_count":1,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1838235294,
+        "raw_count":75,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.112745098,
+        "raw_count":46,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0245098039,
+        "raw_count":10,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6004901961,
+        "raw_count":245,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1078431373,
+        "raw_count":44,
+        "outlet":"USA Today"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4387608069,
+        "raw_count":609,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0958213256,
+        "raw_count":133,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0014409222,
+        "raw_count":2,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3263688761,
+        "raw_count":453,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1116714697,
+        "raw_count":155,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0050432277,
+        "raw_count":7,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.297474275,
+        "raw_count":318,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.165575304,
+        "raw_count":177,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0159027128,
+        "raw_count":17,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6651075772,
+        "raw_count":711,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.088868101,
+        "raw_count":95,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0028063611,
+        "raw_count":3,
+        "outlet":"CNN"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3366336634,
+        "raw_count":170,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0910891089,
+        "raw_count":46,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.196039604,
+        "raw_count":99,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.095049505,
+        "raw_count":48,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0079207921,
+        "raw_count":4,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2554002541,
+        "raw_count":402,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1709021601,
+        "raw_count":269,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0165184244,
+        "raw_count":26,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6073697586,
+        "raw_count":956,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1810673443,
+        "raw_count":285,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0025412961,
+        "raw_count":4,
+        "outlet":"The Guardian"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.25,
+        "raw_count":22,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0568181818,
+        "raw_count":5,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0454545455,
+        "raw_count":4,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1931818182,
+        "raw_count":17,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1818181818,
+        "raw_count":16,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0568181818,
+        "raw_count":5,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1549295775,
+        "raw_count":22,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0633802817,
+        "raw_count":9,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.014084507,
+        "raw_count":2,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2394366197,
+        "raw_count":34,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2112676056,
+        "raw_count":30,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0352112676,
+        "raw_count":5,
+        "outlet":"RT"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3210332103,
+        "raw_count":87,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0627306273,
+        "raw_count":17,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1771217712,
+        "raw_count":48,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1143911439,
+        "raw_count":31,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0073800738,
+        "raw_count":2,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1910519952,
+        "raw_count":158,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1051995163,
+        "raw_count":87,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0072551391,
+        "raw_count":6,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6275695284,
+        "raw_count":519,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1426844015,
+        "raw_count":118,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0024183797,
+        "raw_count":2,
+        "outlet":"CBC (Canadian Broadcasting Corporation)"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3712480253,
+        "raw_count":470,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.144549763,
+        "raw_count":183,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0055292259,
+        "raw_count":7,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2685624013,
+        "raw_count":340,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1358609795,
+        "raw_count":172,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0063191153,
+        "raw_count":8,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1134453782,
+        "raw_count":162,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1036414566,
+        "raw_count":148,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0084033613,
+        "raw_count":12,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.3291316527,
+        "raw_count":470,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2016806723,
+        "raw_count":288,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0091036415,
+        "raw_count":13,
+        "outlet":"Al Jazeera"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.7176470588,
+        "raw_count":427,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0336134454,
+        "raw_count":20,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0016806723,
+        "raw_count":1,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.218487395,
+        "raw_count":130,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0705882353,
+        "raw_count":42,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2389210019,
+        "raw_count":124,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0500963391,
+        "raw_count":26,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0462427746,
+        "raw_count":24,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.7341040462,
+        "raw_count":381,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0250481696,
+        "raw_count":13,
+        "outlet":"The Sun"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4214285714,
+        "raw_count":59,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0714285714,
+        "raw_count":10,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2,
+        "raw_count":28,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0785714286,
+        "raw_count":11,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0071428571,
+        "raw_count":1,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1939058172,
+        "raw_count":140,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0664819945,
+        "raw_count":48,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0346260388,
+        "raw_count":25,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.4293628809,
+        "raw_count":310,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1468144044,
+        "raw_count":106,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0055401662,
+        "raw_count":4,
+        "outlet":"yahoo"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2441860465,
+        "raw_count":21,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1162790698,
+        "raw_count":10,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1046511628,
+        "raw_count":9,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0930232558,
+        "raw_count":8,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.011627907,
+        "raw_count":1,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1294117647,
+        "raw_count":22,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0352941176,
+        "raw_count":6,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0058823529,
+        "raw_count":1,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6705882353,
+        "raw_count":114,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0941176471,
+        "raw_count":16,
+        "outlet":"Business Insider"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3695090439,
+        "raw_count":286,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0865633075,
+        "raw_count":67,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0025839793,
+        "raw_count":2,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2105943152,
+        "raw_count":163,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1007751938,
+        "raw_count":78,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0180878553,
+        "raw_count":14,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1749408983,
+        "raw_count":148,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0661938534,
+        "raw_count":56,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0307328605,
+        "raw_count":26,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.7056737589,
+        "raw_count":597,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0212765957,
+        "raw_count":18,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0070921986,
+        "raw_count":6,
+        "outlet":"Fox News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.3333333333,
+        "raw_count":2,
+        "outlet":"Radio Times"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0869565217,
+        "raw_count":2,
+        "outlet":"CTV News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0434782609,
+        "raw_count":1,
+        "outlet":"CTV News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1739130435,
+        "raw_count":4,
+        "outlet":"CTV News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.5333333333,
+        "raw_count":8,
+        "outlet":"GB News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1333333333,
+        "raw_count":2,
+        "outlet":"GB News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1333333333,
+        "raw_count":2,
+        "outlet":"GB News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0666666667,
+        "raw_count":1,
+        "outlet":"GB News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0117647059,
+        "raw_count":1,
+        "outlet":"GB News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0117647059,
+        "raw_count":1,
+        "outlet":"GB News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.3882352941,
+        "raw_count":33,
+        "outlet":"GB News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0352941176,
+        "raw_count":3,
+        "outlet":"GB News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0352941176,
+        "raw_count":3,
+        "outlet":"GB News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2,
+        "raw_count":1,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1290322581,
+        "raw_count":12,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0537634409,
+        "raw_count":5,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1612903226,
+        "raw_count":15,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1397849462,
+        "raw_count":13,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0322580645,
+        "raw_count":3,
+        "outlet":"IRNA (Islamic Iranian News Agency)"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0909090909,
+        "raw_count":1,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0909090909,
+        "raw_count":1,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.3214285714,
+        "raw_count":9,
+        "outlet":"Birmigham Live"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4,
+        "raw_count":2,
+        "outlet":"Channel 4"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.6,
+        "raw_count":3,
+        "outlet":"Channel 4"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2857142857,
+        "raw_count":6,
+        "outlet":"Channel 4"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.380952381,
+        "raw_count":8,
+        "outlet":"Channel 4"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2380952381,
+        "raw_count":5,
+        "outlet":"Channel 4"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2941176471,
+        "raw_count":5,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1764705882,
+        "raw_count":3,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0588235294,
+        "raw_count":1,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0697674419,
+        "raw_count":6,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1046511628,
+        "raw_count":9,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.023255814,
+        "raw_count":2,
+        "outlet":"Buzzfeed"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.075,
+        "raw_count":3,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.025,
+        "raw_count":1,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0181818182,
+        "raw_count":1,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0181818182,
+        "raw_count":1,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6,
+        "raw_count":33,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1272727273,
+        "raw_count":7,
+        "outlet":"Manchester Evening News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3939393939,
+        "raw_count":26,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0909090909,
+        "raw_count":6,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2272727273,
+        "raw_count":15,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1212121212,
+        "raw_count":8,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0151515152,
+        "raw_count":1,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0431654676,
+        "raw_count":6,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0143884892,
+        "raw_count":2,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0071942446,
+        "raw_count":1,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6043165468,
+        "raw_count":84,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0503597122,
+        "raw_count":7,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0071942446,
+        "raw_count":1,
+        "outlet":"News.com.au"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4157303371,
+        "raw_count":37,
+        "outlet":"Daily Record"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0561797753,
+        "raw_count":5,
+        "outlet":"Daily Record"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0337078652,
+        "raw_count":3,
+        "outlet":"Daily Record"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0344827586,
+        "raw_count":4,
+        "outlet":"Daily Record"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0172413793,
+        "raw_count":2,
+        "outlet":"Daily Record"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2155172414,
+        "raw_count":25,
+        "outlet":"Daily Record"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.025862069,
+        "raw_count":3,
+        "outlet":"Daily Record"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.5,
+        "raw_count":3,
+        "outlet":"Reuters"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1666666667,
+        "raw_count":1,
+        "outlet":"Reuters"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.5,
+        "raw_count":3,
+        "outlet":"Reuters"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3333333333,
+        "raw_count":2,
+        "outlet":"Reuters"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.4285714286,
+        "raw_count":6,
+        "outlet":"Reuters"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.8571428571,
+        "raw_count":12,
+        "outlet":"Reuters"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4074074074,
+        "raw_count":11,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1111111111,
+        "raw_count":3,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2592592593,
+        "raw_count":7,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0740740741,
+        "raw_count":2,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.037037037,
+        "raw_count":1,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1351351351,
+        "raw_count":15,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1351351351,
+        "raw_count":15,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.5855855856,
+        "raw_count":65,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0630630631,
+        "raw_count":7,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.009009009,
+        "raw_count":1,
+        "outlet":"Sydney Morning Herald "
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.5581395349,
+        "raw_count":240,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1604651163,
+        "raw_count":69,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0023255814,
+        "raw_count":1,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.5046511628,
+        "raw_count":217,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1255813953,
+        "raw_count":54,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0069767442,
+        "raw_count":3,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.3184079602,
+        "raw_count":64,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0646766169,
+        "raw_count":13,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0149253731,
+        "raw_count":3,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6019900498,
+        "raw_count":121,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1243781095,
+        "raw_count":25,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0049751244,
+        "raw_count":1,
+        "outlet":"CNBC"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1984732824,
+        "raw_count":26,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0916030534,
+        "raw_count":12,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0076335878,
+        "raw_count":1,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0687022901,
+        "raw_count":9,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0381679389,
+        "raw_count":5,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0076335878,
+        "raw_count":1,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1166666667,
+        "raw_count":28,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0458333333,
+        "raw_count":11,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0083333333,
+        "raw_count":2,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.4458333333,
+        "raw_count":107,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0833333333,
+        "raw_count":20,
+        "outlet":"ITV"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3773364486,
+        "raw_count":323,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.101635514,
+        "raw_count":87,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0023364486,
+        "raw_count":2,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2137850467,
+        "raw_count":183,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1320093458,
+        "raw_count":113,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0070093458,
+        "raw_count":6,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2121428571,
+        "raw_count":297,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0542857143,
+        "raw_count":76,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.02,
+        "raw_count":28,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.5871428571,
+        "raw_count":822,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0985714286,
+        "raw_count":138,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0014285714,
+        "raw_count":2,
+        "outlet":"ABC News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1860465116,
+        "raw_count":56,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0531561462,
+        "raw_count":16,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0066445183,
+        "raw_count":2,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0897009967,
+        "raw_count":27,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0465116279,
+        "raw_count":14,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0033222591,
+        "raw_count":1,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1,
+        "raw_count":14,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.05,
+        "raw_count":7,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0071428571,
+        "raw_count":1,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.5214285714,
+        "raw_count":73,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1357142857,
+        "raw_count":19,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0071428571,
+        "raw_count":1,
+        "outlet":"Forbes"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.523415978,
+        "raw_count":380,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0812672176,
+        "raw_count":59,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0027548209,
+        "raw_count":2,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1625344353,
+        "raw_count":118,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0619834711,
+        "raw_count":45,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0041322314,
+        "raw_count":3,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0738461538,
+        "raw_count":24,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0369230769,
+        "raw_count":12,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0123076923,
+        "raw_count":4,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.4676923077,
+        "raw_count":152,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0892307692,
+        "raw_count":29,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0030769231,
+        "raw_count":1,
+        "outlet":"Metro"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4936708861,
+        "raw_count":39,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0506329114,
+        "raw_count":4,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2911392405,
+        "raw_count":23,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0759493671,
+        "raw_count":6,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2916666667,
+        "raw_count":119,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1176470588,
+        "raw_count":48,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0196078431,
+        "raw_count":8,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6544117647,
+        "raw_count":267,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.137254902,
+        "raw_count":56,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0024509804,
+        "raw_count":1,
+        "outlet":"The Globe and Mail"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4125560538,
+        "raw_count":92,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0762331839,
+        "raw_count":17,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0089686099,
+        "raw_count":2,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.067264574,
+        "raw_count":15,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0448430493,
+        "raw_count":10,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1405750799,
+        "raw_count":44,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0287539936,
+        "raw_count":9,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0127795527,
+        "raw_count":4,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.4696485623,
+        "raw_count":147,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0766773163,
+        "raw_count":24,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0095846645,
+        "raw_count":3,
+        "outlet":"Mirror"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.6180904523,
+        "raw_count":123,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0603015075,
+        "raw_count":12,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0100502513,
+        "raw_count":2,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2613065327,
+        "raw_count":52,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0904522613,
+        "raw_count":18,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0100502513,
+        "raw_count":2,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1362007168,
+        "raw_count":38,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0250896057,
+        "raw_count":7,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.017921147,
+        "raw_count":5,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.476702509,
+        "raw_count":133,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0537634409,
+        "raw_count":15,
+        "outlet":"Daily Express"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4513381995,
+        "raw_count":371,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1216545012,
+        "raw_count":100,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0072992701,
+        "raw_count":6,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2214111922,
+        "raw_count":182,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1386861314,
+        "raw_count":114,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0158150852,
+        "raw_count":13,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2018779343,
+        "raw_count":129,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0876369327,
+        "raw_count":56,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0297339593,
+        "raw_count":19,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.5946791862,
+        "raw_count":380,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0782472613,
+        "raw_count":50,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0015649452,
+        "raw_count":1,
+        "outlet":"The Telegraph"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4887892377,
+        "raw_count":109,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1076233184,
+        "raw_count":24,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0044843049,
+        "raw_count":1,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1883408072,
+        "raw_count":42,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0807174888,
+        "raw_count":18,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1111111111,
+        "raw_count":48,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0648148148,
+        "raw_count":28,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0092592593,
+        "raw_count":4,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.5717592593,
+        "raw_count":247,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0601851852,
+        "raw_count":26,
+        "outlet":"The Evening Standard"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.328990228,
+        "raw_count":202,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0912052117,
+        "raw_count":56,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0081433225,
+        "raw_count":5,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2263843648,
+        "raw_count":139,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1237785016,
+        "raw_count":76,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0048859935,
+        "raw_count":3,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2264150943,
+        "raw_count":228,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1012909633,
+        "raw_count":102,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0268123138,
+        "raw_count":27,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.498510427,
+        "raw_count":502,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1231380338,
+        "raw_count":124,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.002979146,
+        "raw_count":3,
+        "outlet":"NBC News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2067946824,
+        "raw_count":140,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0531757755,
+        "raw_count":36,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0059084195,
+        "raw_count":4,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1004431315,
+        "raw_count":68,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.059084195,
+        "raw_count":40,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0103397341,
+        "raw_count":7,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1392978482,
+        "raw_count":123,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0396375991,
+        "raw_count":35,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0079275198,
+        "raw_count":7,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.3850509626,
+        "raw_count":340,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1540203851,
+        "raw_count":136,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0011325028,
+        "raw_count":1,
+        "outlet":"CBS News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3059777102,
+        "raw_count":302,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0759878419,
+        "raw_count":75,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0060790274,
+        "raw_count":6,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3100303951,
+        "raw_count":306,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0962512665,
+        "raw_count":95,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0050658561,
+        "raw_count":5,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0955473098,
+        "raw_count":103,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0380333952,
+        "raw_count":41,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0148423006,
+        "raw_count":16,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.3701298701,
+        "raw_count":399,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1085343228,
+        "raw_count":117,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0046382189,
+        "raw_count":5,
+        "outlet":"Sky News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4130052724,
+        "raw_count":235,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0808435852,
+        "raw_count":46,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0052724077,
+        "raw_count":3,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1985940246,
+        "raw_count":113,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1054481547,
+        "raw_count":60,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0017574692,
+        "raw_count":1,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1392670157,
+        "raw_count":133,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0554973822,
+        "raw_count":53,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.032460733,
+        "raw_count":31,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.8293193717,
+        "raw_count":792,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0366492147,
+        "raw_count":35,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0104712042,
+        "raw_count":10,
+        "outlet":"New York Post"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.5166889186,
+        "raw_count":387,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.08811749,
+        "raw_count":66,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.002670227,
+        "raw_count":2,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2229639519,
+        "raw_count":167,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1214953271,
+        "raw_count":91,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0080106809,
+        "raw_count":6,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2142038946,
+        "raw_count":187,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1111111111,
+        "raw_count":97,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0240549828,
+        "raw_count":21,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.7182130584,
+        "raw_count":627,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1328751432,
+        "raw_count":116,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0034364261,
+        "raw_count":3,
+        "outlet":"The Independent"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2192307692,
+        "raw_count":57,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0653846154,
+        "raw_count":17,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0038461538,
+        "raw_count":1,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.15,
+        "raw_count":39,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0884615385,
+        "raw_count":23,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0038461538,
+        "raw_count":1,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.3229946524,
+        "raw_count":302,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1625668449,
+        "raw_count":152,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0171122995,
+        "raw_count":16,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.7240641711,
+        "raw_count":677,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1347593583,
+        "raw_count":126,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0010695187,
+        "raw_count":1,
+        "outlet":"AP News"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.4704301075,
+        "raw_count":350,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0900537634,
+        "raw_count":67,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0040322581,
+        "raw_count":3,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2432795699,
+        "raw_count":181,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1505376344,
+        "raw_count":112,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0080645161,
+        "raw_count":6,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.4261424017,
+        "raw_count":401,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1540913921,
+        "raw_count":145,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0148777896,
+        "raw_count":14,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.7651434644,
+        "raw_count":720,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1115834219,
+        "raw_count":105,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0021253985,
+        "raw_count":2,
+        "outlet":"Washington Post"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.6666666667,
+        "raw_count":672,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0525793651,
+        "raw_count":53,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.003968254,
+        "raw_count":4,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3650793651,
+        "raw_count":368,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1091269841,
+        "raw_count":110,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0119047619,
+        "raw_count":12,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2808743169,
+        "raw_count":257,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0852459016,
+        "raw_count":78,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0404371585,
+        "raw_count":37,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.7409836066,
+        "raw_count":678,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0513661202,
+        "raw_count":47,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0054644809,
+        "raw_count":5,
+        "outlet":"Mail Online"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.5446205171,
+        "raw_count":653,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0967472894,
+        "raw_count":116,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0058381985,
+        "raw_count":7,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.3019182652,
+        "raw_count":362,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1392827356,
+        "raw_count":167,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0100083403,
+        "raw_count":12,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2563359884,
+        "raw_count":354,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1708906589,
+        "raw_count":236,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0152063722,
+        "raw_count":21,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6835626358,
+        "raw_count":944,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1433743664,
+        "raw_count":198,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0043446778,
+        "raw_count":6,
+        "outlet":"NYT"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.316027088,
+        "raw_count":140,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.1060948081,
+        "raw_count":47,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0022573363,
+        "raw_count":1,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"positive",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.2009029345,
+        "raw_count":89,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"neutral",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.164785553,
+        "raw_count":73,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Zelensky",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
+        "mentions_per_article":0.0090293454,
+        "raw_count":4,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.2439903846,
+        "raw_count":203,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0769230769,
+        "raw_count":64,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Netanyahu",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0252403846,
+        "raw_count":21,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"negative",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.6129807692,
+        "raw_count":510,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"neutral",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.1502403846,
+        "raw_count":125,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Hamas",
+        "sentiment":"positive",
+        "crisis_name":"Gaza and the Occupied Palestinian Territories",
+        "mentions_per_article":0.0072115385,
+        "raw_count":6,
+        "outlet":"BBC"
+    },
+    {
+        "entity":"Putin",
+        "sentiment":"negative",
+        "crisis_name":"Ukraine",
         "mentions_per_article":0.4277938827,
-        "raw_count":7231
+        "raw_count":7231,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Putin",
         "sentiment":"neutral",
         "crisis_name":"Ukraine",
         "mentions_per_article":0.0895698988,
-        "raw_count":1514
+        "raw_count":1514,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Putin",
         "sentiment":"positive",
         "crisis_name":"Ukraine",
         "mentions_per_article":0.00431876,
-        "raw_count":73
+        "raw_count":73,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Zelensky",
         "sentiment":"positive",
         "crisis_name":"Ukraine",
         "mentions_per_article":0.2397799207,
-        "raw_count":4053
+        "raw_count":4053,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Zelensky",
         "sentiment":"neutral",
         "crisis_name":"Ukraine",
         "mentions_per_article":0.1100396379,
-        "raw_count":1860
+        "raw_count":1860,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Zelensky",
         "sentiment":"negative",
         "crisis_name":"Ukraine",
         "mentions_per_article":0.0084008756,
-        "raw_count":142
+        "raw_count":142,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Netanyahu",
         "sentiment":"neutral",
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "mentions_per_article":0.2082432373,
-        "raw_count":4719
+        "raw_count":4719,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Netanyahu",
         "sentiment":"negative",
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "mentions_per_article":0.0947001456,
-        "raw_count":2146
+        "raw_count":2146,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Netanyahu",
         "sentiment":"positive",
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "mentions_per_article":0.0206963506,
-        "raw_count":469
+        "raw_count":469,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Hamas",
         "sentiment":"negative",
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "mentions_per_article":0.5849697719,
-        "raw_count":13256
+        "raw_count":13256,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Hamas",
         "sentiment":"neutral",
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "mentions_per_article":0.11460218,
-        "raw_count":2597
+        "raw_count":2597,
+        "outlet":"All Outlets"
     },
     {
         "entity":"Hamas",
         "sentiment":"positive",
         "crisis_name":"Gaza and the Occupied Palestinian Territories",
         "mentions_per_article":0.004810026,
-        "raw_count":109
+        "raw_count":109,
+        "outlet":"All Outlets"
     }
 ]
