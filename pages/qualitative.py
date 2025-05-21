@@ -104,6 +104,7 @@ else:
             st.write("**Top by Average Count**")
             st.dataframe(average_df, use_container_width=True)
         
+        st.write("The tables display the total count of keywords and the average keyword count per article, respectively.")
         st.write("---")
 
 # Step 2: Frame Analysis
@@ -226,7 +227,8 @@ for frame_name, frame_info in frames.items():
                     use_container_width=True,
                     height=300
                 )
-    
+
+    st.write("The tables present each frame's attributes and the corresponding percentage of articles that incorporate each attribute, providing insight into their prevalence across the dataset")
     st.write("---")
 
 # Step 3: Comparative Analysis
@@ -397,6 +399,10 @@ for figures, assoc_type, title in [
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.info(f"No {assoc_type} data for {title} in outlet {outlet_step3}")
+    
+st.write("The bar chart illustrates the average number of mentions per article.")
+st.write("---")
+
 
 st.subheader("Framing Narratives")
 col1, col2 = st.columns(2)
@@ -413,6 +419,9 @@ for col, crisis_name, title in framing_plots:
         col.plotly_chart(fig, use_container_width=True)
     else:
         col.info(f"No framing data for {crisis_name} in outlet {outlet_step3}")
+st.write("The bar chart illustrates the average number of mentions per article for each frame, calculated by dividing the total number of frame mentions by the total number of articles for a specific crisis and outlet.")
+st.write("---")
+
 
 st.subheader("Leader Sentiment")
 fig = plot_sentiment(sentiment_path, "Comparative Sentiment: Leaders", outlet_step3)
@@ -420,6 +429,8 @@ if fig:
     st.plotly_chart(fig, use_container_width=True)
 else:
     st.info(f"No sentiment data in outlet {outlet_step3}")
+st.write("The stacked bar chart demonstrates the proportions of positive, negative and neutral sentiments associated to each entity.")
+st.write("---")
 
 st.subheader("Victim and Causor Framing")
 col1, col2 = st.columns(2)
@@ -437,4 +448,5 @@ for col, framing_type, title in victim_causor_plots:
     else:
         col.info(f"No {framing_type} framing data in outlet {outlet_step3}")
 
+st.write("The bar chart illustrates the average number of mentions per article of Causor and Victim frames for each of the parties.")
 st.write("---")
